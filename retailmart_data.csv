@@ -1,0 +1,1001 @@
+Date,Category,Region,Weather,Advertising,Discount,Month,Year,Season,Sales,Customer_Count,Profit
+2022-01-01,Home Goods,East,Cloudy,1275.18,15.74,January,2022,Winter,2679.56,95,652.9
+2022-01-02,Electronics,West,Cloudy,1893.89,24.74,January,2022,Winter,3859.05,147,924.16
+2022-01-02,Apparel,East,Sunny,727.38,8.46,January,2022,Winter,2450.71,79,512.75
+2022-01-02,Apparel,South,Rainy,1757.23,15.37,January,2022,Winter,3056.75,97,624.6
+2022-01-05,Home Goods,North,Cloudy,1507.46,16.22,January,2022,Winter,2840.15,116,617.43
+2022-01-05,Home Goods,North,Rainy,1576.36,10.18,January,2022,Winter,2384.53,81,594.5
+2022-01-08,Electronics,West,Snowy,1506.01,5.62,January,2022,Winter,3180.64,52,726.82
+2022-01-09,Electronics,North,Sunny,1599.58,18.25,January,2022,Winter,3360.72,120,725.93
+2022-01-09,Electronics,South,Rainy,963.25,6.26,January,2022,Winter,2837.33,60,681.25
+2022-01-10,Home Goods,South,Snowy,1681.06,12.21,January,2022,Winter,2723.22,98,614.62
+2022-01-12,Home Goods,East,Cloudy,1145.15,10.42,January,2022,Winter,2341.12,83,606.44
+2022-01-12,Apparel,East,Sunny,1835.09,24.44,January,2022,Winter,3325.99,145,719.69
+2022-01-14,Electronics,North,Rainy,1452.63,26.57,January,2022,Winter,3573.38,167,782.16
+2022-01-15,Apparel,West,Rainy,1394.48,15.83,January,2022,Winter,2963.2,99,768.8
+2022-01-15,Home Goods,East,Rainy,1837.22,18.29,January,2022,Winter,3122.29,114,772.71
+2022-01-16,Apparel,East,Sunny,1269.08,21.98,January,2022,Winter,2927.36,133,709.24
+2022-01-17,Electronics,North,Snowy,1896.33,27.35,January,2022,Winter,3796.97,163,864.91
+2022-01-18,Apparel,West,Rainy,1247.86,20.38,January,2022,Winter,2854.57,116,652.77
+2022-01-19,Home Goods,West,Sunny,903.27,8.26,January,2022,Winter,2225.52,70,506.52
+2022-01-20,Apparel,East,Rainy,995.36,23.74,January,2022,Winter,2866.93,146,652.04
+2022-01-21,Apparel,West,Rainy,1548.97,16.48,January,2022,Winter,3001.96,113,727.34
+2022-01-21,Apparel,South,Rainy,1858.04,24.6,January,2022,Winter,3486.31,149,829.54
+2022-01-22,Electronics,North,Cloudy,1112.46,16.08,January,2022,Winter,3131.07,106,741.64
+2022-01-22,Home Goods,East,Sunny,1455.64,15.4,January,2022,Winter,2721.77,94,604.67
+2022-01-23,Apparel,West,Cloudy,1327.99,24.85,January,2022,Winter,3036.2,150,554.02
+2022-01-25,Home Goods,North,Rainy,713.26,5.24,January,2022,Winter,2004.21,45,476.65
+2022-01-27,Home Goods,North,Cloudy,1102.17,29.26,January,2022,Winter,3034.84,174,713.75
+2022-01-28,Apparel,East,Cloudy,566.58,16.16,January,2022,Winter,2412.04,104,540.67
+2022-01-28,Apparel,East,Snowy,616.42,25.54,January,2022,Winter,2588.52,150,707.4
+2022-01-29,Electronics,East,Cloudy,1972.86,13.66,January,2022,Winter,3478.41,94,776.36
+2022-02-02,Electronics,North,Sunny,1639.42,18.99,February,2022,Winter,3621.08,122,786.16
+2022-02-02,Home Goods,South,Cloudy,1819.79,14.24,February,2022,Winter,2920.03,102,623.54
+2022-02-04,Home Goods,North,Sunny,1316.76,17.96,February,2022,Winter,2575.29,119,642.95
+2022-02-04,Apparel,South,Snowy,1815.86,9.17,February,2022,Winter,3139.02,73,673.84
+2022-02-05,Home Goods,North,Rainy,547.13,14.15,February,2022,Winter,2190.92,90,485.74
+2022-02-05,Home Goods,West,Sunny,1730.02,28.96,February,2022,Winter,3084.92,175,721.6
+2022-02-06,Apparel,East,Rainy,1729.7,6.87,February,2022,Winter,2895.8,57,578.67
+2022-02-06,Home Goods,West,Cloudy,1414.45,25.51,February,2022,Winter,2891.25,152,714.11
+2022-02-06,Apparel,West,Cloudy,1512.71,23.79,February,2022,Winter,3133.97,143,740.28
+2022-02-07,Home Goods,South,Cloudy,851.98,27.25,February,2022,Winter,2472.17,153,597.64
+2022-02-08,Home Goods,West,Cloudy,967.98,19.16,February,2022,Winter,2462.63,121,629.83
+2022-02-08,Electronics,West,Snowy,1368.76,27.87,February,2022,Winter,3692.94,170,799.75
+2022-02-08,Apparel,West,Cloudy,987.88,17.62,February,2022,Winter,2734.74,112,570.49
+2022-02-10,Home Goods,West,Rainy,1032.29,29.86,February,2022,Winter,2755.2,170,599.86
+2022-02-10,Home Goods,North,Sunny,903.44,8.18,February,2022,Winter,2088.98,74,603.66
+2022-02-10,Apparel,South,Cloudy,1095.2,6.07,February,2022,Winter,2387.51,61,634.56
+2022-02-11,Home Goods,South,Cloudy,1080.86,18.38,February,2022,Winter,2355.82,112,539.9
+2022-02-12,Home Goods,West,Rainy,1141.25,23.75,February,2022,Winter,2605.04,145,654.07
+2022-02-15,Apparel,North,Cloudy,1357.71,29.71,February,2022,Winter,3335.09,179,730.95
+2022-02-16,Home Goods,East,Cloudy,1665.39,9.43,February,2022,Winter,2655.97,82,582.42
+2022-02-16,Apparel,South,Snowy,1092.81,24.84,February,2022,Winter,3065.79,149,743.36
+2022-02-16,Home Goods,South,Rainy,575.73,21.26,February,2022,Winter,2367.93,141,559.43
+2022-02-17,Electronics,West,Cloudy,1362.17,6.13,February,2022,Winter,3132.67,56,678.35
+2022-02-18,Home Goods,East,Snowy,1910.67,11.32,February,2022,Winter,2889.7,84,685.2
+2022-02-20,Apparel,South,Rainy,772.61,13.76,February,2022,Winter,2566.99,94,551.17
+2022-02-22,Apparel,East,Cloudy,1563.52,16.53,February,2022,Winter,2988.36,105,610.69
+2022-02-22,Apparel,West,Snowy,697.54,22.87,February,2022,Winter,2492.55,139,519.8
+2022-02-22,Electronics,West,Snowy,1906.07,11.0,February,2022,Winter,3382.12,83,755.66
+2022-02-23,Home Goods,South,Snowy,1409.22,18.53,February,2022,Winter,2627.19,125,618.6
+2022-02-23,Apparel,South,Cloudy,1012.67,5.51,February,2022,Winter,2547.08,57,625.49
+2022-02-27,Home Goods,West,Snowy,1308.22,28.51,February,2022,Winter,2837.5,172,662.82
+2022-02-27,Home Goods,West,Snowy,1462.45,6.53,February,2022,Winter,2401.36,59,625.06
+2022-02-27,Electronics,West,Cloudy,1923.61,19.59,February,2022,Winter,3742.21,114,853.57
+2022-02-27,Electronics,East,Cloudy,1968.44,24.2,February,2022,Winter,3797.18,152,827.85
+2022-02-28,Electronics,North,Sunny,1848.27,25.7,February,2022,Winter,3592.36,155,810.19
+2022-03-03,Electronics,East,Snowy,724.4,9.95,March,2022,Spring,2339.62,75,605.23
+2022-03-04,Home Goods,North,Snowy,1171.2,6.05,March,2022,Spring,1863.67,54,426.29
+2022-03-06,Electronics,West,Rainy,559.65,25.51,March,2022,Spring,2531.87,151,502.78
+2022-03-10,Electronics,South,Rainy,1547.47,15.59,March,2022,Spring,2995.18,95,777.48
+2022-03-10,Apparel,West,Rainy,1016.91,28.17,March,2022,Spring,2661.19,168,618.67
+2022-03-11,Electronics,North,Rainy,1516.31,24.76,March,2022,Spring,3065.03,147,713.17
+2022-03-13,Home Goods,North,Rainy,1578.62,18.38,March,2022,Spring,2607.12,125,582.21
+2022-03-15,Apparel,North,Snowy,1223.4,20.66,March,2022,Spring,2457.98,132,575.08
+2022-03-16,Electronics,South,Snowy,1273.49,16.1,March,2022,Spring,2911.71,106,671.12
+2022-03-17,Apparel,North,Rainy,1340.14,25.12,March,2022,Spring,2728.95,149,656.97
+2022-03-17,Electronics,North,Rainy,828.68,24.59,March,2022,Spring,2941.4,141,722.47
+2022-03-21,Apparel,East,Snowy,874.29,24.15,March,2022,Spring,2400.35,149,523.99
+2022-03-22,Home Goods,North,Sunny,995.61,11.69,March,2022,Spring,2179.32,80,593.09
+2022-03-22,Home Goods,East,Sunny,1318.07,20.96,March,2022,Spring,2373.73,130,630.09
+2022-03-27,Electronics,South,Snowy,519.54,26.83,March,2022,Spring,2707.99,161,613.66
+2022-03-27,Apparel,West,Sunny,1865.2,10.63,March,2022,Spring,2742.88,78,640.49
+2022-03-29,Apparel,North,Sunny,1709.29,15.19,March,2022,Spring,2720.36,100,600.48
+2022-03-31,Home Goods,West,Sunny,1727.55,8.19,March,2022,Spring,2469.02,58,505.27
+2022-03-31,Electronics,East,Rainy,943.54,12.94,March,2022,Spring,2567.86,90,534.48
+2022-04-01,Electronics,North,Snowy,1671.49,5.87,April,2022,Spring,2825.07,48,632.97
+2022-04-02,Electronics,South,Rainy,1350.76,23.31,April,2022,Spring,2800.68,136,694.48
+2022-04-02,Home Goods,South,Sunny,829.71,19.93,April,2022,Spring,2018.09,130,531.87
+2022-04-04,Apparel,South,Rainy,1929.35,5.79,April,2022,Spring,2773.88,56,555.28
+2022-04-06,Electronics,South,Sunny,965.13,22.42,April,2022,Spring,2765.39,133,648.32
+2022-04-06,Home Goods,North,Snowy,1320.29,5.38,April,2022,Spring,2211.97,55,627.17
+2022-04-06,Apparel,West,Cloudy,1253.23,19.99,April,2022,Spring,2557.06,127,553.09
+2022-04-09,Apparel,East,Rainy,1448.13,16.96,April,2022,Spring,2753.46,106,628.88
+2022-04-09,Home Goods,North,Cloudy,546.29,10.34,April,2022,Spring,1687.96,79,405.66
+2022-04-09,Home Goods,West,Snowy,747.81,14.33,April,2022,Spring,1791.03,96,418.43
+2022-04-09,Electronics,East,Cloudy,708.67,18.86,April,2022,Spring,2550.48,114,620.68
+2022-04-09,Home Goods,West,Snowy,1156.22,27.11,April,2022,Spring,2391.71,167,586.75
+2022-04-09,Home Goods,South,Rainy,1690.09,9.15,April,2022,Spring,2316.9,71,551.53
+2022-04-09,Electronics,West,Cloudy,1133.58,18.0,April,2022,Spring,2797.05,107,748.51
+2022-04-10,Electronics,North,Snowy,880.96,5.71,April,2022,Spring,2316.62,51,485.62
+2022-04-10,Apparel,East,Snowy,1272.03,25.86,April,2022,Spring,2578.22,147,593.89
+2022-04-13,Home Goods,North,Sunny,1373.31,27.83,April,2022,Spring,2604.45,161,725.67
+2022-04-13,Apparel,West,Sunny,1819.73,15.28,April,2022,Spring,2861.15,101,700.95
+2022-04-14,Apparel,East,Cloudy,688.59,24.9,April,2022,Spring,2277.0,139,655.88
+2022-04-14,Electronics,West,Cloudy,1098.65,29.67,April,2022,Spring,2909.97,163,633.62
+2022-04-16,Apparel,South,Snowy,1290.9,26.4,April,2022,Spring,2782.63,163,664.53
+2022-04-16,Apparel,West,Rainy,901.67,21.97,April,2022,Spring,2331.28,129,609.6
+2022-04-17,Electronics,North,Snowy,630.77,17.49,April,2022,Spring,2440.49,115,507.95
+2022-04-19,Electronics,West,Cloudy,1223.75,5.16,April,2022,Spring,2549.98,47,615.83
+2022-04-22,Home Goods,West,Cloudy,536.75,22.67,April,2022,Spring,2144.84,135,434.55
+2022-04-23,Apparel,North,Snowy,1062.21,15.37,April,2022,Spring,2365.29,96,581.91
+2022-04-23,Home Goods,South,Snowy,813.3,12.8,April,2022,Spring,1960.4,81,507.04
+2022-04-23,Electronics,South,Cloudy,1410.32,21.9,April,2022,Spring,2849.87,129,700.01
+2022-04-25,Apparel,North,Rainy,1190.0,14.49,April,2022,Spring,2454.94,99,540.54
+2022-04-26,Electronics,West,Rainy,774.21,10.93,April,2022,Spring,2485.52,74,472.67
+2022-04-27,Apparel,West,Sunny,638.14,20.06,April,2022,Spring,2317.9,116,531.71
+2022-04-27,Electronics,North,Rainy,1245.97,17.15,April,2022,Spring,2639.8,113,624.13
+2022-04-28,Home Goods,South,Cloudy,1187.9,7.65,April,2022,Spring,2116.33,58,512.3
+2022-04-30,Home Goods,North,Rainy,1449.36,25.67,April,2022,Spring,2646.05,144,588.39
+2022-04-30,Home Goods,North,Cloudy,1714.79,12.47,April,2022,Spring,2585.23,81,647.88
+2022-05-02,Apparel,West,Cloudy,1551.3,14.07,May,2022,Spring,2805.0,96,653.38
+2022-05-02,Apparel,East,Sunny,786.89,17.5,May,2022,Spring,2087.59,114,545.69
+2022-05-03,Home Goods,North,Cloudy,1725.14,21.11,May,2022,Spring,2718.18,131,588.83
+2022-05-04,Apparel,West,Cloudy,1030.19,16.34,May,2022,Spring,2379.67,104,561.14
+2022-05-05,Electronics,West,Rainy,834.9,18.58,May,2022,Spring,2415.45,122,629.61
+2022-05-06,Home Goods,South,Cloudy,1911.91,7.93,May,2022,Spring,2575.13,63,676.06
+2022-05-07,Apparel,North,Sunny,1123.46,28.75,May,2022,Spring,2636.15,167,632.75
+2022-05-08,Apparel,West,Snowy,657.21,22.56,May,2022,Spring,2234.47,140,509.19
+2022-05-09,Apparel,South,Sunny,1175.7,21.19,May,2022,Spring,2644.6,129,638.57
+2022-05-10,Electronics,West,Snowy,1740.22,26.53,May,2022,Spring,3236.31,155,733.31
+2022-05-11,Apparel,South,Rainy,691.18,16.55,May,2022,Spring,2159.19,98,581.49
+2022-05-11,Home Goods,East,Cloudy,634.72,10.18,May,2022,Spring,1809.43,74,564.32
+2022-05-11,Home Goods,East,Snowy,659.52,22.82,May,2022,Spring,1851.51,144,455.77
+2022-05-12,Electronics,East,Cloudy,625.88,21.2,May,2022,Spring,2439.41,128,572.61
+2022-05-13,Home Goods,East,Cloudy,1423.87,7.33,May,2022,Spring,2300.35,62,582.61
+2022-05-14,Apparel,North,Snowy,1330.07,17.79,May,2022,Spring,2457.49,110,611.4
+2022-05-15,Apparel,North,Snowy,916.73,6.75,May,2022,Spring,2097.17,55,496.19
+2022-05-15,Home Goods,South,Cloudy,828.91,5.4,May,2022,Spring,1738.15,43,454.94
+2022-05-19,Electronics,South,Sunny,1211.43,16.98,May,2022,Spring,2744.44,113,604.7
+2022-05-23,Apparel,East,Sunny,1312.99,7.84,May,2022,Spring,2376.97,65,535.22
+2022-05-23,Apparel,North,Sunny,900.88,20.93,May,2022,Spring,2489.12,127,660.11
+2022-05-24,Apparel,South,Snowy,1152.99,22.44,May,2022,Spring,2572.11,147,608.16
+2022-05-24,Home Goods,North,Sunny,687.69,11.94,May,2022,Spring,1753.93,76,433.1
+2022-05-24,Apparel,East,Rainy,698.56,22.13,May,2022,Spring,2276.01,136,680.35
+2022-05-24,Apparel,South,Rainy,546.19,14.9,May,2022,Spring,2163.58,96,508.82
+2022-05-25,Electronics,West,Sunny,999.55,11.34,May,2022,Spring,2533.29,72,686.24
+2022-05-27,Apparel,South,Sunny,1237.9,22.57,May,2022,Spring,2573.79,128,570.44
+2022-05-28,Electronics,South,Rainy,953.67,6.66,May,2022,Spring,2331.49,60,600.77
+2022-05-29,Home Goods,South,Sunny,1288.63,28.6,May,2022,Spring,2417.57,165,558.48
+2022-05-30,Home Goods,East,Snowy,1462.79,13.67,May,2022,Spring,2382.7,94,503.21
+2022-05-31,Apparel,North,Rainy,589.21,20.08,May,2022,Spring,2201.52,121,605.44
+2022-05-31,Electronics,North,Sunny,1506.58,11.2,May,2022,Spring,2773.97,79,606.98
+2022-06-01,Home Goods,North,Rainy,566.24,10.49,June,2022,Summer,1510.34,72,354.44
+2022-06-02,Apparel,West,Cloudy,1365.56,24.51,June,2022,Summer,2458.31,141,560.08
+2022-06-03,Apparel,East,Rainy,1188.45,22.49,June,2022,Summer,2315.28,119,506.63
+2022-06-04,Electronics,North,Rainy,1694.36,20.66,June,2022,Summer,2812.91,124,652.17
+2022-06-06,Home Goods,North,Rainy,1110.46,12.14,June,2022,Summer,2026.85,86,585.83
+2022-06-07,Electronics,East,Sunny,1347.48,19.33,June,2022,Summer,2524.75,117,619.4
+2022-06-09,Electronics,North,Sunny,1298.74,18.73,June,2022,Summer,2700.56,115,708.83
+2022-06-09,Apparel,East,Snowy,1000.11,15.96,June,2022,Summer,2064.11,96,517.54
+2022-06-09,Apparel,North,Cloudy,1433.06,20.48,June,2022,Summer,2442.86,124,638.6
+2022-06-10,Home Goods,East,Rainy,816.67,13.68,June,2022,Summer,1839.44,95,325.09
+2022-06-10,Electronics,West,Sunny,1040.57,25.15,June,2022,Summer,2510.13,149,521.35
+2022-06-10,Electronics,North,Rainy,1213.11,19.75,June,2022,Summer,2388.92,118,581.69
+2022-06-11,Electronics,North,Cloudy,1287.86,28.63,June,2022,Summer,2836.11,159,676.2
+2022-06-12,Apparel,South,Rainy,863.35,14.89,June,2022,Summer,2065.64,91,500.59
+2022-06-12,Home Goods,West,Snowy,1764.92,15.26,June,2022,Summer,2108.57,103,563.56
+2022-06-14,Apparel,West,Rainy,1441.99,15.19,June,2022,Summer,2416.43,98,479.49
+2022-06-16,Apparel,North,Snowy,674.29,7.05,June,2022,Summer,1821.51,54,506.08
+2022-06-16,Apparel,East,Cloudy,1972.7,23.05,June,2022,Summer,2826.67,148,644.17
+2022-06-17,Home Goods,North,Snowy,1437.54,22.35,June,2022,Summer,2208.84,127,601.89
+2022-06-17,Home Goods,East,Sunny,1578.74,29.06,June,2022,Summer,2564.94,164,632.48
+2022-06-19,Electronics,East,Rainy,974.82,18.82,June,2022,Summer,2190.34,118,641.85
+2022-06-20,Electronics,South,Sunny,1743.53,16.1,June,2022,Summer,2735.4,105,643.15
+2022-06-21,Apparel,West,Sunny,1740.07,13.44,June,2022,Summer,2388.65,91,581.52
+2022-06-22,Home Goods,West,Cloudy,517.22,13.8,June,2022,Summer,1563.89,79,388.81
+2022-06-22,Electronics,West,Rainy,1176.03,8.38,June,2022,Summer,2261.78,72,568.39
+2022-06-23,Apparel,West,Cloudy,1713.18,23.19,June,2022,Summer,2508.45,135,613.91
+2022-06-25,Electronics,North,Cloudy,1202.23,24.33,June,2022,Summer,2766.02,141,705.18
+2022-06-26,Apparel,West,Rainy,1442.65,19.14,June,2022,Summer,2281.39,119,529.7
+2022-06-27,Home Goods,West,Sunny,1033.96,26.29,June,2022,Summer,2116.35,155,561.34
+2022-06-29,Home Goods,North,Cloudy,880.73,27.82,June,2022,Summer,2296.12,164,480.45
+2022-06-30,Home Goods,East,Cloudy,1766.37,10.8,June,2022,Summer,2376.42,77,502.71
+2022-07-01,Apparel,East,Rainy,1600.23,18.38,July,2022,Summer,2596.58,115,647.74
+2022-07-03,Electronics,West,Rainy,725.78,6.36,July,2022,Summer,2037.6,60,612.39
+2022-07-05,Electronics,East,Rainy,1859.86,19.15,July,2022,Summer,2859.27,125,655.41
+2022-07-06,Home Goods,West,Cloudy,1187.7,16.37,July,2022,Summer,1947.91,99,568.98
+2022-07-07,Home Goods,East,Snowy,907.35,16.63,July,2022,Summer,1945.42,97,477.05
+2022-07-08,Home Goods,North,Cloudy,1290.85,11.35,July,2022,Summer,2135.83,78,482.47
+2022-07-09,Apparel,East,Sunny,1055.08,25.61,July,2022,Summer,2368.52,149,624.15
+2022-07-09,Home Goods,North,Sunny,1123.92,10.27,July,2022,Summer,1795.56,72,483.43
+2022-07-09,Electronics,East,Rainy,1534.67,20.08,July,2022,Summer,2733.6,129,587.1
+2022-07-09,Apparel,East,Rainy,840.1,10.79,July,2022,Summer,1875.47,63,503.06
+2022-07-09,Electronics,East,Cloudy,1608.54,21.95,July,2022,Summer,2896.62,130,690.38
+2022-07-10,Home Goods,North,Cloudy,1393.04,11.34,July,2022,Summer,2018.4,80,491.22
+2022-07-10,Electronics,South,Snowy,917.66,28.71,July,2022,Summer,2496.23,170,573.77
+2022-07-11,Electronics,East,Snowy,1010.57,23.01,July,2022,Summer,2544.71,131,632.73
+2022-07-11,Apparel,East,Rainy,800.84,11.86,July,2022,Summer,1989.68,79,513.81
+2022-07-11,Apparel,North,Rainy,1010.56,24.64,July,2022,Summer,2287.46,135,536.96
+2022-07-13,Home Goods,North,Sunny,1902.95,18.69,July,2022,Summer,2544.91,114,630.75
+2022-07-14,Apparel,West,Rainy,550.5,18.07,July,2022,Summer,1838.76,107,524.24
+2022-07-15,Electronics,East,Snowy,571.46,7.28,July,2022,Summer,1902.39,59,546.55
+2022-07-15,Electronics,East,Cloudy,1985.31,9.73,July,2022,Summer,2701.95,72,666.96
+2022-07-17,Electronics,West,Snowy,1596.23,6.06,July,2022,Summer,2545.12,53,618.74
+2022-07-20,Electronics,West,Sunny,1827.45,23.91,July,2022,Summer,3101.01,149,705.16
+2022-07-20,Home Goods,West,Cloudy,1398.68,9.29,July,2022,Summer,2092.37,57,528.57
+2022-07-20,Electronics,North,Cloudy,1725.02,23.23,July,2022,Summer,2876.29,143,650.59
+2022-07-21,Home Goods,West,Cloudy,548.97,22.42,July,2022,Summer,1700.76,131,452.76
+2022-07-22,Apparel,North,Sunny,675.6,14.45,July,2022,Summer,1679.99,88,509.72
+2022-07-22,Apparel,East,Snowy,1999.57,20.79,July,2022,Summer,2867.16,125,634.28
+2022-07-23,Apparel,East,Sunny,1659.63,7.89,July,2022,Summer,2303.6,59,513.74
+2022-07-25,Home Goods,South,Snowy,1815.89,11.09,July,2022,Summer,2462.73,69,700.7
+2022-07-26,Apparel,South,Snowy,638.43,20.14,July,2022,Summer,1853.43,121,408.92
+2022-07-27,Apparel,North,Sunny,1991.97,8.89,July,2022,Summer,2519.96,49,660.2
+2022-08-01,Electronics,West,Cloudy,761.12,5.03,August,2022,Summer,2008.85,40,406.11
+2022-08-03,Electronics,South,Snowy,1153.26,19.97,August,2022,Summer,2485.14,116,565.12
+2022-08-03,Electronics,West,Snowy,646.27,9.08,August,2022,Summer,1983.58,64,479.02
+2022-08-05,Home Goods,East,Rainy,1005.45,24.5,August,2022,Summer,2134.64,144,585.68
+2022-08-05,Home Goods,South,Sunny,870.7,8.05,August,2022,Summer,1789.09,67,405.91
+2022-08-05,Home Goods,North,Snowy,1956.15,22.43,August,2022,Summer,2557.08,134,640.33
+2022-08-06,Apparel,North,Rainy,1744.38,22.83,August,2022,Summer,2798.4,138,708.68
+2022-08-06,Electronics,East,Sunny,848.06,18.09,August,2022,Summer,2260.39,109,557.66
+2022-08-08,Home Goods,South,Cloudy,654.68,20.95,August,2022,Summer,1919.73,125,603.02
+2022-08-08,Home Goods,East,Snowy,1032.56,11.16,August,2022,Summer,1846.89,74,465.98
+2022-08-08,Electronics,South,Cloudy,694.89,23.24,August,2022,Summer,2375.04,132,606.14
+2022-08-08,Apparel,South,Sunny,1956.11,19.24,August,2022,Summer,2716.88,119,643.61
+2022-08-11,Electronics,North,Sunny,868.71,19.14,August,2022,Summer,2443.76,111,576.4
+2022-08-11,Home Goods,South,Rainy,686.57,17.83,August,2022,Summer,1807.68,114,485.51
+2022-08-13,Electronics,South,Snowy,752.51,20.83,August,2022,Summer,2114.59,122,585.75
+2022-08-13,Apparel,South,Sunny,541.13,20.75,August,2022,Summer,1950.55,117,466.93
+2022-08-13,Apparel,North,Cloudy,1770.71,25.03,August,2022,Summer,2794.71,148,607.13
+2022-08-14,Home Goods,North,Cloudy,737.94,28.31,August,2022,Summer,2091.68,164,486.72
+2022-08-15,Electronics,West,Sunny,1531.11,25.73,August,2022,Summer,2711.0,151,498.97
+2022-08-15,Electronics,South,Snowy,1908.59,28.58,August,2022,Summer,3149.31,171,694.85
+2022-08-17,Home Goods,East,Cloudy,1418.39,5.46,August,2022,Summer,1870.95,45,491.04
+2022-08-18,Apparel,South,Snowy,954.79,25.45,August,2022,Summer,2351.58,147,554.99
+2022-08-18,Apparel,North,Snowy,840.09,26.77,August,2022,Summer,2122.97,152,660.02
+2022-08-19,Home Goods,South,Sunny,1456.82,18.95,August,2022,Summer,2200.28,116,585.13
+2022-08-19,Electronics,West,Sunny,827.76,28.56,August,2022,Summer,2224.51,167,495.82
+2022-08-19,Apparel,East,Snowy,518.46,27.21,August,2022,Summer,2143.51,155,622.07
+2022-08-21,Apparel,West,Cloudy,703.68,5.34,August,2022,Summer,1747.99,46,499.61
+2022-08-21,Apparel,North,Rainy,1441.23,10.31,August,2022,Summer,2242.69,61,484.37
+2022-08-21,Home Goods,North,Cloudy,1292.87,29.63,August,2022,Summer,2440.2,175,638.31
+2022-08-21,Apparel,East,Sunny,1448.24,22.26,August,2022,Summer,2477.82,127,618.99
+2022-08-22,Home Goods,West,Sunny,1762.59,5.14,August,2022,Summer,2156.89,46,418.19
+2022-08-23,Apparel,South,Cloudy,1251.63,12.94,August,2022,Summer,2319.53,88,701.74
+2022-08-25,Apparel,West,Rainy,1846.51,15.27,August,2022,Summer,2516.68,78,554.74
+2022-08-29,Home Goods,South,Snowy,1832.06,19.71,August,2022,Summer,2458.33,120,598.43
+2022-08-30,Apparel,North,Sunny,1174.76,18.3,August,2022,Summer,2280.48,112,563.7
+2022-08-31,Apparel,North,Cloudy,1099.05,23.71,August,2022,Summer,2384.31,144,494.09
+2022-09-01,Apparel,West,Snowy,1132.17,24.86,September,2022,Fall,2865.54,142,695.46
+2022-09-03,Home Goods,East,Rainy,1523.29,16.64,September,2022,Fall,2512.96,104,651.99
+2022-09-04,Electronics,South,Sunny,1317.24,26.59,September,2022,Fall,3186.44,155,735.93
+2022-09-04,Apparel,North,Sunny,1929.53,10.66,September,2022,Fall,2866.12,80,544.78
+2022-09-09,Apparel,East,Snowy,1011.22,28.79,September,2022,Fall,2718.16,171,670.44
+2022-09-09,Home Goods,South,Snowy,608.17,8.53,September,2022,Fall,1681.95,70,362.82
+2022-09-10,Apparel,West,Rainy,1656.11,8.18,September,2022,Fall,2699.86,61,601.51
+2022-09-10,Apparel,North,Sunny,694.4,28.62,September,2022,Fall,2534.52,163,597.21
+2022-09-10,Home Goods,East,Rainy,1928.7,21.57,September,2022,Fall,2908.77,122,628.76
+2022-09-10,Electronics,West,Rainy,1644.66,27.68,September,2022,Fall,3472.11,160,760.73
+2022-09-10,Apparel,North,Snowy,1638.87,18.83,September,2022,Fall,2684.85,119,661.38
+2022-09-11,Electronics,East,Cloudy,1290.84,16.87,September,2022,Fall,3002.69,110,653.17
+2022-09-11,Electronics,West,Rainy,920.5,7.46,September,2022,Fall,2649.43,69,590.04
+2022-09-11,Electronics,North,Cloudy,1753.11,23.63,September,2022,Fall,3349.31,147,757.73
+2022-09-13,Apparel,North,Snowy,1451.51,5.16,September,2022,Fall,2510.1,44,619.3
+2022-09-13,Electronics,North,Sunny,1000.41,16.52,September,2022,Fall,2749.69,110,646.81
+2022-09-15,Home Goods,South,Sunny,548.93,28.43,September,2022,Fall,2364.62,174,500.58
+2022-09-16,Electronics,South,Sunny,822.0,5.7,September,2022,Fall,2352.49,53,543.5
+2022-09-16,Apparel,West,Sunny,1009.65,7.36,September,2022,Fall,2438.8,65,653.94
+2022-09-20,Home Goods,South,Cloudy,967.85,13.69,September,2022,Fall,2195.35,86,488.76
+2022-09-21,Electronics,South,Sunny,1565.2,9.12,September,2022,Fall,2737.07,66,591.02
+2022-09-22,Apparel,West,Sunny,1671.1,6.31,September,2022,Fall,2671.39,51,694.38
+2022-09-25,Electronics,North,Cloudy,722.27,6.17,September,2022,Fall,2463.38,47,587.75
+2022-09-25,Apparel,North,Cloudy,720.59,12.72,September,2022,Fall,2189.52,90,495.42
+2022-09-26,Apparel,East,Rainy,972.72,26.62,September,2022,Fall,2823.67,147,721.62
+2022-09-27,Apparel,East,Sunny,1933.74,15.98,September,2022,Fall,2948.37,116,668.72
+2022-09-28,Electronics,East,Sunny,669.41,25.84,September,2022,Fall,2786.27,154,738.94
+2022-09-28,Electronics,East,Cloudy,623.31,7.86,September,2022,Fall,2469.2,64,596.51
+2022-09-29,Electronics,North,Sunny,1992.47,7.07,September,2022,Fall,3349.11,57,780.4
+2022-09-30,Electronics,North,Rainy,1643.72,15.77,September,2022,Fall,3165.83,98,749.71
+2022-10-01,Apparel,West,Rainy,1432.02,14.62,October,2022,Fall,2620.12,85,620.46
+2022-10-04,Home Goods,South,Rainy,728.49,9.98,October,2022,Fall,1927.86,68,505.22
+2022-10-04,Apparel,South,Cloudy,823.29,16.16,October,2022,Fall,2348.87,109,559.89
+2022-10-04,Electronics,South,Sunny,1822.99,23.54,October,2022,Fall,3358.45,146,677.79
+2022-10-04,Home Goods,West,Cloudy,1087.74,10.93,October,2022,Fall,2241.36,81,556.39
+2022-10-06,Electronics,East,Sunny,688.03,16.36,October,2022,Fall,2561.21,105,597.4
+2022-10-07,Apparel,West,Snowy,950.73,23.69,October,2022,Fall,2523.04,140,588.44
+2022-10-07,Home Goods,North,Sunny,674.03,20.59,October,2022,Fall,2119.64,122,519.56
+2022-10-10,Electronics,South,Snowy,1580.98,15.07,October,2022,Fall,3169.53,100,670.46
+2022-10-10,Electronics,North,Rainy,1267.52,15.72,October,2022,Fall,2906.58,104,626.06
+2022-10-11,Apparel,North,Sunny,907.32,26.37,October,2022,Fall,2629.08,152,592.82
+2022-10-12,Apparel,East,Sunny,1759.49,18.44,October,2022,Fall,2899.69,112,656.18
+2022-10-12,Electronics,West,Snowy,1744.09,23.7,October,2022,Fall,3309.13,137,790.08
+2022-10-15,Apparel,North,Rainy,1123.7,21.17,October,2022,Fall,2663.46,135,738.64
+2022-10-16,Electronics,East,Snowy,1765.89,16.26,October,2022,Fall,3170.73,103,744.28
+2022-10-16,Apparel,North,Sunny,1404.6,27.44,October,2022,Fall,2904.38,167,607.85
+2022-10-21,Electronics,West,Snowy,1601.87,18.87,October,2022,Fall,3336.47,113,763.01
+2022-10-23,Electronics,East,Cloudy,755.87,20.28,October,2022,Fall,2676.76,129,594.02
+2022-10-25,Home Goods,East,Cloudy,947.65,24.4,October,2022,Fall,2461.67,146,651.27
+2022-10-28,Electronics,West,Rainy,1033.78,7.78,October,2022,Fall,2736.29,65,700.87
+2022-10-29,Apparel,South,Snowy,1768.77,18.91,October,2022,Fall,2890.57,120,632.9
+2022-10-29,Electronics,East,Cloudy,1895.26,14.41,October,2022,Fall,3216.9,97,699.06
+2022-10-31,Electronics,East,Cloudy,1808.07,9.2,October,2022,Fall,3150.16,70,690.16
+2022-11-01,Apparel,West,Rainy,1322.57,8.56,November,2022,Fall,2676.79,69,642.27
+2022-11-01,Home Goods,East,Snowy,1078.42,8.05,November,2022,Fall,2088.09,50,586.19
+2022-11-05,Electronics,East,Cloudy,505.73,15.22,November,2022,Fall,2563.54,102,654.3
+2022-11-10,Home Goods,South,Rainy,1644.73,28.11,November,2022,Fall,2922.15,160,695.43
+2022-11-10,Home Goods,East,Cloudy,1355.97,15.89,November,2022,Fall,2477.45,104,590.24
+2022-11-12,Home Goods,East,Cloudy,544.26,8.77,November,2022,Fall,1750.14,61,485.03
+2022-11-12,Apparel,South,Sunny,1299.01,23.52,November,2022,Fall,2804.7,132,628.51
+2022-11-14,Home Goods,North,Sunny,1393.98,27.58,November,2022,Fall,2587.57,150,637.74
+2022-11-17,Electronics,North,Cloudy,1859.1,15.78,November,2022,Fall,3215.73,107,690.82
+2022-11-19,Electronics,South,Cloudy,1656.17,22.7,November,2022,Fall,3420.29,142,824.73
+2022-11-19,Home Goods,North,Snowy,1999.2,24.31,November,2022,Fall,2918.03,146,665.82
+2022-11-21,Apparel,South,Cloudy,1932.27,10.11,November,2022,Fall,2935.37,75,603.67
+2022-11-22,Electronics,South,Rainy,556.97,22.14,November,2022,Fall,2587.89,134,613.69
+2022-11-23,Home Goods,North,Cloudy,1408.26,12.8,November,2022,Fall,2423.22,91,534.4
+2022-11-26,Electronics,East,Rainy,626.45,21.82,November,2022,Fall,2516.2,133,590.27
+2022-11-27,Home Goods,West,Sunny,1365.87,10.03,November,2022,Fall,2313.52,72,555.24
+2022-11-27,Electronics,South,Cloudy,1175.19,8.77,November,2022,Fall,2938.18,71,739.18
+2022-12-02,Electronics,West,Cloudy,1453.17,15.52,December,2022,Winter,3289.08,109,778.25
+2022-12-04,Apparel,South,Rainy,1459.41,27.14,December,2022,Winter,3145.59,167,767.23
+2022-12-04,Electronics,East,Sunny,1841.68,22.09,December,2022,Winter,3615.28,136,898.14
+2022-12-04,Apparel,South,Cloudy,1522.62,26.89,December,2022,Winter,3133.18,158,683.8
+2022-12-05,Electronics,West,Rainy,744.22,9.28,December,2022,Winter,3039.29,70,746.51
+2022-12-06,Apparel,North,Rainy,1385.43,24.67,December,2022,Winter,3123.8,151,624.13
+2022-12-06,Electronics,West,Snowy,569.19,15.36,December,2022,Winter,2875.7,102,602.04
+2022-12-07,Electronics,South,Sunny,1940.25,19.36,December,2022,Winter,3743.09,119,836.54
+2022-12-08,Electronics,South,Sunny,531.01,17.42,December,2022,Winter,2734.62,108,751.94
+2022-12-08,Electronics,North,Cloudy,1117.48,11.16,December,2022,Winter,2967.9,88,702.83
+2022-12-08,Apparel,East,Cloudy,1494.51,11.95,December,2022,Winter,2974.19,79,827.69
+2022-12-10,Electronics,West,Snowy,1204.46,15.24,December,2022,Winter,3022.93,93,577.71
+2022-12-10,Apparel,South,Snowy,750.7,7.8,December,2022,Winter,2508.21,69,564.74
+2022-12-12,Home Goods,South,Cloudy,1269.35,23.51,December,2022,Winter,2751.76,147,641.42
+2022-12-12,Home Goods,West,Snowy,1535.0,26.58,December,2022,Winter,3128.54,154,702.82
+2022-12-12,Electronics,East,Sunny,1957.3,21.73,December,2022,Winter,3732.32,143,888.6
+2022-12-12,Apparel,West,Rainy,680.37,12.42,December,2022,Winter,2271.51,81,577.05
+2022-12-14,Electronics,South,Rainy,648.31,11.6,December,2022,Winter,2704.26,75,627.28
+2022-12-14,Apparel,North,Snowy,806.04,18.67,December,2022,Winter,2651.93,119,723.6
+2022-12-14,Apparel,North,Rainy,1324.41,7.49,December,2022,Winter,2887.41,55,575.86
+2022-12-15,Apparel,South,Snowy,1323.98,20.98,December,2022,Winter,2934.63,131,732.47
+2022-12-15,Home Goods,East,Snowy,563.44,20.01,December,2022,Winter,2183.39,127,562.39
+2022-12-16,Home Goods,North,Snowy,1341.94,11.83,December,2022,Winter,2566.92,83,623.37
+2022-12-20,Home Goods,West,Cloudy,697.28,21.33,December,2022,Winter,2555.16,134,595.49
+2022-12-23,Electronics,North,Rainy,1065.48,27.4,December,2022,Winter,3377.45,169,748.78
+2022-12-24,Home Goods,South,Cloudy,1269.09,25.14,December,2022,Winter,2823.13,149,663.24
+2022-12-25,Electronics,East,Cloudy,1275.86,23.7,December,2022,Winter,3371.72,146,758.48
+2022-12-27,Home Goods,North,Snowy,611.06,21.12,December,2022,Winter,2034.13,130,513.52
+2022-12-31,Electronics,South,Rainy,934.96,17.75,December,2022,Winter,3018.7,114,748.74
+2022-12-31,Electronics,North,Rainy,1086.02,13.44,December,2022,Winter,3112.93,88,702.75
+2023-01-02,Home Goods,West,Sunny,925.74,27.04,January,2023,Winter,2702.95,162,645.5
+2023-01-02,Home Goods,South,Sunny,683.05,12.0,January,2023,Winter,2166.4,82,565.58
+2023-01-04,Home Goods,West,Cloudy,1888.28,17.31,January,2023,Winter,2958.62,112,709.85
+2023-01-04,Home Goods,North,Sunny,1727.04,8.31,January,2023,Winter,2573.39,56,656.18
+2023-01-05,Home Goods,South,Snowy,914.36,11.24,January,2023,Winter,2435.25,85,590.28
+2023-01-08,Home Goods,East,Snowy,1320.31,9.15,January,2023,Winter,2534.12,77,589.24
+2023-01-08,Home Goods,East,Snowy,1765.61,16.74,January,2023,Winter,2991.86,106,766.19
+2023-01-08,Apparel,East,Rainy,1860.8,5.63,January,2023,Winter,2955.87,56,695.1
+2023-01-08,Home Goods,West,Rainy,1588.59,19.85,January,2023,Winter,2936.01,125,701.65
+2023-01-09,Home Goods,West,Cloudy,1958.04,29.03,January,2023,Winter,3261.5,167,672.09
+2023-01-10,Home Goods,South,Rainy,1331.99,22.46,January,2023,Winter,2664.21,134,654.61
+2023-01-11,Apparel,South,Rainy,568.1,21.45,January,2023,Winter,2446.65,126,593.75
+2023-01-12,Home Goods,East,Sunny,1288.72,24.59,January,2023,Winter,2661.07,158,612.11
+2023-01-14,Apparel,West,Cloudy,927.36,17.83,January,2023,Winter,2591.37,117,630.28
+2023-01-15,Electronics,East,Rainy,1209.35,26.85,January,2023,Winter,3316.17,167,702.4
+2023-01-15,Home Goods,South,Snowy,1816.03,24.34,January,2023,Winter,2986.8,146,614.34
+2023-01-19,Home Goods,East,Rainy,738.54,25.75,January,2023,Winter,2552.6,150,625.29
+2023-01-20,Apparel,East,Snowy,870.36,16.73,January,2023,Winter,2700.74,99,630.15
+2023-01-20,Home Goods,West,Cloudy,1089.46,26.45,January,2023,Winter,2845.8,160,708.24
+2023-01-21,Electronics,South,Snowy,615.62,23.67,January,2023,Winter,2893.48,143,662.91
+2023-01-21,Home Goods,West,Sunny,553.91,26.32,January,2023,Winter,2248.6,158,503.59
+2023-01-21,Apparel,South,Sunny,1753.22,5.13,January,2023,Winter,2846.72,52,629.84
+2023-01-22,Apparel,North,Rainy,1610.24,11.97,January,2023,Winter,2850.41,86,726.86
+2023-01-22,Electronics,North,Cloudy,1055.6,28.46,January,2023,Winter,3321.43,169,844.94
+2023-01-23,Home Goods,West,Cloudy,1338.78,17.23,January,2023,Winter,2735.06,107,689.57
+2023-01-23,Apparel,East,Sunny,1296.97,29.66,January,2023,Winter,3011.95,172,757.01
+2023-01-25,Home Goods,East,Snowy,1141.24,8.16,January,2023,Winter,2302.17,71,572.64
+2023-01-25,Apparel,South,Cloudy,927.94,23.85,January,2023,Winter,2834.75,154,620.36
+2023-01-27,Home Goods,North,Snowy,1323.47,28.51,January,2023,Winter,2738.35,173,532.41
+2023-01-27,Apparel,West,Rainy,1781.2,26.2,January,2023,Winter,3326.58,162,768.32
+2023-01-28,Electronics,North,Cloudy,1724.62,10.41,January,2023,Winter,3458.03,72,825.86
+2023-01-28,Electronics,South,Rainy,1494.0,11.46,January,2023,Winter,3350.01,85,830.72
+2023-01-28,Apparel,North,Rainy,952.88,8.43,January,2023,Winter,2573.15,62,621.11
+2023-01-28,Electronics,South,Snowy,1961.89,10.39,January,2023,Winter,3543.6,81,760.68
+2023-01-29,Electronics,West,Sunny,1385.65,17.51,January,2023,Winter,3316.72,119,742.26
+2023-01-31,Electronics,West,Rainy,1042.57,24.93,January,2023,Winter,3204.7,148,781.14
+2023-01-31,Apparel,South,Sunny,577.84,15.5,January,2023,Winter,2621.67,106,539.42
+2023-02-01,Electronics,North,Cloudy,903.53,27.92,February,2023,Winter,3155.58,166,730.84
+2023-02-01,Home Goods,West,Sunny,715.72,11.95,February,2023,Winter,2167.27,86,592.13
+2023-02-02,Electronics,East,Cloudy,938.77,21.61,February,2023,Winter,3179.55,134,810.47
+2023-02-02,Home Goods,West,Sunny,885.04,13.67,February,2023,Winter,2098.02,91,452.93
+2023-02-02,Apparel,West,Snowy,1673.26,8.3,February,2023,Winter,2916.24,65,658.19
+2023-02-04,Electronics,East,Rainy,1816.47,15.46,February,2023,Winter,3787.19,96,858.44
+2023-02-05,Home Goods,North,Rainy,821.94,16.77,February,2023,Winter,2267.87,106,459.0
+2023-02-05,Apparel,South,Snowy,810.96,29.36,February,2023,Winter,2999.61,168,620.5
+2023-02-06,Apparel,East,Sunny,830.34,18.67,February,2023,Winter,2611.31,118,550.08
+2023-02-06,Electronics,South,Rainy,1060.33,11.28,February,2023,Winter,3161.32,82,666.44
+2023-02-07,Apparel,West,Sunny,1757.82,16.08,February,2023,Winter,3053.49,105,695.25
+2023-02-07,Apparel,West,Cloudy,1923.67,6.96,February,2023,Winter,3101.01,55,825.2
+2023-02-08,Home Goods,West,Snowy,503.48,20.76,February,2023,Winter,2160.56,132,475.38
+2023-02-11,Electronics,East,Cloudy,1513.13,28.23,February,2023,Winter,3714.03,175,838.28
+2023-02-11,Home Goods,South,Sunny,757.77,23.64,February,2023,Winter,2441.35,140,607.46
+2023-02-12,Electronics,South,Rainy,1994.39,25.15,February,2023,Winter,3920.63,157,946.35
+2023-02-12,Electronics,South,Rainy,1532.07,21.29,February,2023,Winter,3470.65,133,745.5
+2023-02-13,Apparel,North,Rainy,602.5,9.88,February,2023,Winter,2280.29,68,550.77
+2023-02-15,Home Goods,West,Sunny,1078.81,29.18,February,2023,Winter,2608.77,171,680.59
+2023-02-17,Home Goods,East,Sunny,1194.94,27.34,February,2023,Winter,2706.96,164,615.0
+2023-02-18,Home Goods,East,Snowy,1987.61,24.66,February,2023,Winter,3306.48,148,654.78
+2023-02-19,Electronics,East,Sunny,504.75,20.47,February,2023,Winter,2906.95,130,811.27
+2023-02-19,Electronics,East,Cloudy,808.1,18.64,February,2023,Winter,3061.4,123,678.66
+2023-02-19,Apparel,South,Cloudy,1909.48,29.92,February,2023,Winter,3491.53,172,856.76
+2023-02-20,Home Goods,North,Cloudy,1746.03,14.06,February,2023,Winter,2759.95,96,635.48
+2023-02-21,Electronics,North,Rainy,1147.07,27.48,February,2023,Winter,3409.85,162,754.37
+2023-02-22,Electronics,East,Snowy,1819.24,16.62,February,2023,Winter,3650.4,109,858.73
+2023-02-23,Apparel,North,Snowy,1749.98,29.54,February,2023,Winter,3264.53,165,722.61
+2023-02-24,Electronics,South,Rainy,935.04,5.2,February,2023,Winter,2662.12,52,682.83
+2023-02-24,Electronics,West,Sunny,1550.05,24.42,February,2023,Winter,3701.59,142,856.06
+2023-02-26,Apparel,West,Cloudy,656.61,6.91,February,2023,Winter,2371.63,66,461.68
+2023-02-26,Electronics,East,Cloudy,871.27,8.14,February,2023,Winter,2805.78,66,639.4
+2023-03-03,Apparel,North,Rainy,843.04,22.03,March,2023,Spring,2401.22,136,627.53
+2023-03-04,Home Goods,North,Rainy,839.53,19.55,March,2023,Spring,2088.45,116,538.75
+2023-03-08,Home Goods,West,Sunny,1672.02,29.74,March,2023,Spring,2639.56,173,675.25
+2023-03-11,Electronics,South,Rainy,764.14,26.59,March,2023,Spring,2697.92,153,647.53
+2023-03-12,Apparel,North,Rainy,1288.15,26.84,March,2023,Spring,2677.02,148,617.14
+2023-03-14,Apparel,North,Snowy,679.93,17.82,March,2023,Spring,2084.71,113,515.41
+2023-03-15,Apparel,East,Rainy,1374.48,28.13,March,2023,Spring,2827.15,162,579.77
+2023-03-17,Electronics,West,Rainy,1437.81,21.31,March,2023,Spring,2982.2,130,612.01
+2023-03-18,Home Goods,North,Rainy,1852.07,24.05,March,2023,Spring,2724.58,149,598.82
+2023-03-18,Apparel,South,Snowy,1093.15,27.92,March,2023,Spring,2516.83,161,546.46
+2023-03-20,Apparel,West,Cloudy,810.64,28.47,March,2023,Spring,2235.72,154,559.51
+2023-03-21,Apparel,South,Sunny,1973.07,6.13,March,2023,Spring,2850.55,49,695.87
+2023-03-21,Home Goods,South,Snowy,1923.81,23.11,March,2023,Spring,2720.91,136,724.5
+2023-03-23,Electronics,West,Rainy,663.34,6.89,March,2023,Spring,2168.0,51,498.99
+2023-03-26,Home Goods,West,Rainy,552.51,21.12,March,2023,Spring,1856.07,130,475.42
+2023-03-27,Electronics,East,Rainy,1872.1,9.23,March,2023,Spring,2998.87,69,700.92
+2023-03-29,Home Goods,South,Snowy,1466.71,28.56,March,2023,Spring,2627.22,167,687.47
+2023-03-29,Electronics,East,Snowy,1674.52,15.16,March,2023,Spring,2901.51,96,738.66
+2023-03-29,Apparel,East,Sunny,1781.33,8.61,March,2023,Spring,2578.12,70,674.87
+2023-03-31,Home Goods,West,Cloudy,611.36,20.87,March,2023,Spring,1903.51,128,543.18
+2023-03-31,Home Goods,West,Sunny,1562.73,8.99,March,2023,Spring,2484.55,74,590.27
+2023-04-01,Home Goods,West,Cloudy,1373.27,20.47,April,2023,Spring,2378.91,120,547.25
+2023-04-01,Electronics,East,Rainy,1866.01,24.12,April,2023,Spring,3471.36,141,760.8
+2023-04-01,Apparel,East,Cloudy,510.07,22.67,April,2023,Spring,2233.79,130,521.47
+2023-04-02,Apparel,East,Rainy,1043.26,11.24,April,2023,Spring,2199.94,81,501.76
+2023-04-04,Electronics,East,Sunny,1607.1,19.76,April,2023,Spring,3092.16,119,627.34
+2023-04-05,Electronics,South,Cloudy,602.76,5.2,April,2023,Spring,2278.11,39,602.25
+2023-04-05,Apparel,South,Cloudy,1579.69,21.45,April,2023,Spring,2549.46,131,570.87
+2023-04-06,Apparel,North,Rainy,924.96,13.15,April,2023,Spring,2144.42,88,508.26
+2023-04-06,Home Goods,West,Rainy,981.62,23.96,April,2023,Spring,2147.61,144,533.14
+2023-04-07,Apparel,West,Sunny,1196.65,21.97,April,2023,Spring,2530.45,127,613.44
+2023-04-07,Electronics,West,Snowy,1582.09,21.94,April,2023,Spring,3363.06,138,843.06
+2023-04-09,Electronics,South,Rainy,1618.79,27.76,April,2023,Spring,3210.45,169,732.76
+2023-04-12,Home Goods,East,Rainy,1420.67,24.63,April,2023,Spring,2431.72,142,504.85
+2023-04-14,Home Goods,West,Cloudy,735.99,28.67,April,2023,Spring,2110.56,157,544.15
+2023-04-15,Apparel,West,Rainy,1732.15,8.08,April,2023,Spring,2566.01,62,655.49
+2023-04-16,Home Goods,North,Sunny,1247.06,25.17,April,2023,Spring,2369.15,153,650.25
+2023-04-16,Electronics,West,Cloudy,1182.38,6.04,April,2023,Spring,2592.57,44,711.38
+2023-04-17,Home Goods,East,Sunny,1204.62,10.2,April,2023,Spring,2245.74,66,626.55
+2023-04-17,Home Goods,South,Sunny,1297.87,15.15,April,2023,Spring,2175.45,84,612.79
+2023-04-18,Electronics,North,Snowy,1323.7,8.9,April,2023,Spring,2742.67,62,642.77
+2023-04-18,Electronics,North,Snowy,1214.73,10.41,April,2023,Spring,2719.09,71,659.78
+2023-04-18,Electronics,South,Cloudy,1834.48,15.38,April,2023,Spring,3118.68,97,779.24
+2023-04-19,Home Goods,West,Cloudy,1895.91,9.33,April,2023,Spring,2489.63,73,597.62
+2023-04-19,Apparel,North,Cloudy,1187.35,10.46,April,2023,Spring,2214.62,75,495.04
+2023-04-20,Electronics,West,Rainy,588.64,26.82,April,2023,Spring,2439.18,154,595.68
+2023-04-20,Electronics,East,Cloudy,1988.66,13.3,April,2023,Spring,3183.32,82,712.88
+2023-04-21,Electronics,South,Sunny,784.72,16.16,April,2023,Spring,2536.07,99,669.66
+2023-04-21,Apparel,North,Cloudy,500.28,24.66,April,2023,Spring,2097.27,141,510.67
+2023-04-22,Electronics,South,Sunny,628.01,9.73,April,2023,Spring,2346.74,65,524.53
+2023-04-22,Home Goods,West,Snowy,1488.24,10.09,April,2023,Spring,2210.92,69,550.92
+2023-04-22,Apparel,North,Snowy,1799.82,13.44,April,2023,Spring,2769.66,95,648.96
+2023-04-26,Apparel,West,Cloudy,783.56,17.27,April,2023,Spring,2116.15,115,585.21
+2023-04-29,Apparel,South,Cloudy,678.31,24.54,April,2023,Spring,2335.75,142,527.04
+2023-04-30,Home Goods,East,Snowy,1561.53,15.36,April,2023,Spring,2545.25,96,580.02
+2023-04-30,Home Goods,North,Sunny,731.48,23.11,April,2023,Spring,2097.33,134,471.21
+2023-05-03,Apparel,South,Sunny,1222.0,22.49,May,2023,Spring,2687.96,131,648.16
+2023-05-04,Apparel,North,Sunny,1161.84,11.16,May,2023,Spring,2303.05,72,534.89
+2023-05-05,Electronics,East,Cloudy,1157.81,10.79,May,2023,Spring,2611.09,79,590.93
+2023-05-05,Electronics,West,Sunny,1631.03,11.96,May,2023,Spring,2899.56,80,694.54
+2023-05-07,Electronics,West,Rainy,1482.92,17.91,May,2023,Spring,3032.25,110,705.26
+2023-05-07,Apparel,South,Rainy,1942.27,11.99,May,2023,Spring,2861.62,73,668.7
+2023-05-08,Home Goods,East,Rainy,1975.76,10.09,May,2023,Spring,2526.05,72,654.31
+2023-05-08,Electronics,North,Cloudy,1737.18,14.96,May,2023,Spring,2923.05,98,638.33
+2023-05-11,Electronics,South,Snowy,529.69,19.62,May,2023,Spring,2356.0,111,638.33
+2023-05-12,Apparel,South,Cloudy,586.55,12.8,May,2023,Spring,2019.98,85,566.93
+2023-05-12,Home Goods,East,Sunny,1346.94,6.34,May,2023,Spring,2139.07,54,587.28
+2023-05-12,Apparel,North,Cloudy,1121.23,5.43,May,2023,Spring,2125.78,49,543.37
+2023-05-14,Apparel,East,Rainy,1734.74,8.91,May,2023,Spring,2678.46,72,687.18
+2023-05-14,Electronics,West,Sunny,1386.3,9.54,May,2023,Spring,2696.18,71,650.76
+2023-05-15,Apparel,North,Rainy,1902.49,29.4,May,2023,Spring,3032.48,173,736.72
+2023-05-16,Electronics,West,Cloudy,1660.86,6.08,May,2023,Spring,2799.76,49,609.83
+2023-05-17,Apparel,North,Sunny,1392.2,20.36,May,2023,Spring,2624.8,122,706.71
+2023-05-18,Apparel,South,Sunny,544.5,13.75,May,2023,Spring,1932.78,91,419.93
+2023-05-18,Apparel,North,Snowy,560.84,14.67,May,2023,Spring,2120.99,99,562.57
+2023-05-19,Home Goods,West,Cloudy,1374.89,19.06,May,2023,Spring,2417.01,112,585.67
+2023-05-20,Electronics,East,Snowy,1949.37,13.62,May,2023,Spring,3031.65,93,697.74
+2023-05-20,Home Goods,South,Cloudy,715.91,18.09,May,2023,Spring,2105.51,107,471.86
+2023-05-21,Home Goods,East,Snowy,1757.4,26.41,May,2023,Spring,2849.12,146,766.39
+2023-05-21,Apparel,West,Cloudy,1639.03,16.6,May,2023,Spring,2868.96,111,688.3
+2023-05-21,Apparel,South,Rainy,1705.28,11.61,May,2023,Spring,2518.29,81,652.69
+2023-05-23,Electronics,East,Rainy,758.17,16.77,May,2023,Spring,2488.58,105,701.64
+2023-05-24,Electronics,West,Rainy,1595.37,7.96,May,2023,Spring,2718.63,61,683.72
+2023-05-25,Home Goods,South,Sunny,959.21,20.43,May,2023,Spring,2010.19,124,436.77
+2023-05-25,Apparel,North,Sunny,1231.78,8.32,May,2023,Spring,2273.92,59,595.08
+2023-05-26,Electronics,South,Cloudy,1816.98,13.43,May,2023,Spring,2942.5,82,619.42
+2023-05-26,Electronics,South,Snowy,1476.15,10.4,May,2023,Spring,2813.27,72,662.22
+2023-05-26,Electronics,East,Sunny,1631.93,19.85,May,2023,Spring,3124.26,122,726.33
+2023-05-26,Home Goods,East,Sunny,1566.33,28.72,May,2023,Spring,2840.16,170,551.92
+2023-05-27,Home Goods,North,Cloudy,624.07,28.47,May,2023,Spring,2118.09,167,588.79
+2023-05-27,Electronics,North,Sunny,1587.28,12.07,May,2023,Spring,2895.22,80,623.24
+2023-05-28,Apparel,North,Snowy,1431.36,13.88,May,2023,Spring,2618.85,92,667.15
+2023-05-28,Electronics,West,Snowy,830.73,9.59,May,2023,Spring,2445.56,71,637.5
+2023-05-31,Apparel,East,Snowy,1374.9,18.97,May,2023,Spring,2506.77,123,560.92
+2023-05-31,Home Goods,South,Cloudy,1242.01,5.42,May,2023,Spring,2127.19,43,535.9
+2023-06-01,Apparel,East,Sunny,1776.02,23.35,June,2023,Summer,2859.1,131,721.87
+2023-06-02,Home Goods,North,Rainy,1914.48,11.32,June,2023,Summer,2471.08,72,648.94
+2023-06-03,Apparel,East,Cloudy,1819.01,23.98,June,2023,Summer,2624.45,141,665.28
+2023-06-05,Home Goods,South,Cloudy,858.28,5.33,June,2023,Summer,1572.73,52,458.57
+2023-06-06,Electronics,East,Snowy,569.09,6.29,June,2023,Summer,2233.11,52,565.57
+2023-06-09,Electronics,West,Rainy,1542.32,15.78,June,2023,Summer,2785.64,95,627.11
+2023-06-09,Electronics,East,Sunny,907.16,20.48,June,2023,Summer,2199.12,129,479.13
+2023-06-09,Electronics,North,Cloudy,862.83,10.27,June,2023,Summer,2028.7,68,507.55
+2023-06-10,Apparel,South,Cloudy,1904.4,22.53,June,2023,Summer,2582.61,143,641.25
+2023-06-15,Electronics,West,Snowy,1985.54,16.11,June,2023,Summer,3092.18,101,668.44
+2023-06-16,Apparel,East,Cloudy,1658.45,21.53,June,2023,Summer,2587.76,126,604.4
+2023-06-22,Home Goods,North,Snowy,1734.96,20.27,June,2023,Summer,2494.16,121,629.98
+2023-06-24,Apparel,South,Cloudy,523.72,29.79,June,2023,Summer,2016.77,177,472.98
+2023-06-25,Apparel,West,Sunny,1986.89,16.27,June,2023,Summer,2602.21,93,588.16
+2023-06-29,Electronics,West,Snowy,1961.56,6.1,June,2023,Summer,2756.97,43,766.65
+2023-07-01,Electronics,South,Sunny,1200.45,14.28,July,2023,Summer,2483.39,95,691.16
+2023-07-01,Electronics,South,Snowy,887.26,19.53,July,2023,Summer,2288.48,116,620.67
+2023-07-01,Home Goods,South,Snowy,937.24,25.93,July,2023,Summer,2085.52,156,530.84
+2023-07-02,Home Goods,West,Rainy,1824.1,18.99,July,2023,Summer,2606.25,110,668.65
+2023-07-05,Electronics,South,Rainy,1588.57,29.4,July,2023,Summer,2836.46,173,648.15
+2023-07-05,Home Goods,South,Rainy,1645.37,8.45,July,2023,Summer,2092.82,72,576.2
+2023-07-08,Home Goods,East,Snowy,1850.48,26.31,July,2023,Summer,2599.85,150,677.68
+2023-07-10,Apparel,East,Rainy,1555.69,12.2,July,2023,Summer,2343.45,81,592.26
+2023-07-10,Apparel,East,Cloudy,989.51,18.29,July,2023,Summer,2018.69,113,499.6
+2023-07-10,Home Goods,North,Rainy,1792.61,29.58,July,2023,Summer,2575.1,164,542.05
+2023-07-10,Apparel,West,Cloudy,1606.35,5.55,July,2023,Summer,2384.94,43,650.11
+2023-07-11,Electronics,North,Snowy,1725.08,11.96,July,2023,Summer,2810.86,83,628.8
+2023-07-12,Apparel,South,Sunny,1981.49,27.57,July,2023,Summer,3021.97,156,663.82
+2023-07-14,Electronics,West,Snowy,1341.31,26.83,July,2023,Summer,2786.38,153,658.26
+2023-07-15,Home Goods,South,Rainy,1711.09,6.92,July,2023,Summer,2192.99,57,595.08
+2023-07-16,Apparel,South,Sunny,1983.54,23.73,July,2023,Summer,2731.3,131,569.43
+2023-07-17,Apparel,East,Snowy,1344.93,23.41,July,2023,Summer,2503.16,134,627.65
+2023-07-17,Home Goods,West,Cloudy,1703.53,25.72,July,2023,Summer,2612.2,145,594.81
+2023-07-18,Electronics,North,Rainy,770.29,28.71,July,2023,Summer,2390.07,163,581.19
+2023-07-18,Electronics,East,Rainy,1398.04,9.63,July,2023,Summer,2437.37,71,639.15
+2023-07-18,Electronics,North,Rainy,969.81,22.65,July,2023,Summer,2518.59,128,641.23
+2023-07-19,Home Goods,North,Snowy,1647.08,12.84,July,2023,Summer,2121.56,81,542.99
+2023-07-19,Apparel,West,Sunny,602.51,18.53,July,2023,Summer,2035.6,110,553.0
+2023-07-20,Home Goods,South,Cloudy,1660.31,26.71,July,2023,Summer,2359.57,147,623.43
+2023-07-20,Home Goods,South,Snowy,1425.87,15.28,July,2023,Summer,2284.5,93,554.92
+2023-07-20,Apparel,North,Sunny,666.47,28.38,July,2023,Summer,2188.73,169,566.49
+2023-07-20,Apparel,South,Sunny,1143.77,26.79,July,2023,Summer,2330.01,154,510.72
+2023-07-21,Electronics,East,Sunny,527.0,18.04,July,2023,Summer,1924.47,109,544.75
+2023-07-23,Home Goods,West,Rainy,1323.96,14.1,July,2023,Summer,2090.3,90,487.94
+2023-07-24,Home Goods,West,Cloudy,1451.64,14.4,July,2023,Summer,2238.33,94,520.87
+2023-07-24,Home Goods,South,Cloudy,1352.14,24.86,July,2023,Summer,2301.24,140,500.96
+2023-07-26,Home Goods,North,Cloudy,1601.04,12.65,July,2023,Summer,2177.7,80,494.62
+2023-07-26,Home Goods,East,Rainy,1404.94,22.75,July,2023,Summer,2260.02,129,589.58
+2023-07-28,Home Goods,South,Cloudy,567.28,14.48,July,2023,Summer,1645.69,87,523.41
+2023-07-28,Apparel,North,Snowy,601.08,21.37,July,2023,Summer,2022.49,130,542.23
+2023-07-29,Home Goods,East,Sunny,1012.71,16.39,July,2023,Summer,1989.17,103,484.69
+2023-07-29,Home Goods,North,Snowy,1119.01,15.37,July,2023,Summer,1906.04,94,493.96
+2023-07-31,Home Goods,West,Snowy,837.34,15.95,July,2023,Summer,1721.57,95,378.78
+2023-08-01,Electronics,South,Sunny,824.08,25.65,August,2023,Summer,2399.67,146,570.22
+2023-08-03,Electronics,South,Cloudy,1795.1,18.68,August,2023,Summer,2746.87,117,627.73
+2023-08-04,Apparel,North,Snowy,1454.81,14.04,August,2023,Summer,2523.9,81,609.16
+2023-08-10,Apparel,West,Cloudy,1732.89,29.38,August,2023,Summer,2810.46,173,623.92
+2023-08-11,Electronics,West,Cloudy,1144.39,9.83,August,2023,Summer,2278.07,70,509.02
+2023-08-16,Apparel,West,Cloudy,1305.51,23.58,August,2023,Summer,2576.69,137,702.03
+2023-08-17,Electronics,West,Cloudy,809.33,25.34,August,2023,Summer,2478.01,153,608.84
+2023-08-19,Home Goods,East,Rainy,1071.03,6.64,August,2023,Summer,1661.23,50,381.17
+2023-08-24,Home Goods,East,Rainy,1442.36,15.74,August,2023,Summer,2189.82,108,545.25
+2023-08-24,Electronics,South,Snowy,1795.94,18.08,August,2023,Summer,2672.76,109,614.92
+2023-08-25,Apparel,West,Snowy,942.86,6.26,August,2023,Summer,1770.72,49,461.44
+2023-08-27,Apparel,East,Cloudy,1587.47,23.24,August,2023,Summer,2577.41,136,621.51
+2023-08-28,Home Goods,West,Snowy,549.21,11.56,August,2023,Summer,1525.54,77,376.93
+2023-08-30,Apparel,South,Cloudy,1855.64,12.2,August,2023,Summer,2368.9,88,530.05
+2023-08-30,Electronics,South,Snowy,1513.77,11.63,August,2023,Summer,2371.0,77,547.55
+2023-08-31,Electronics,East,Rainy,730.71,24.54,August,2023,Summer,2213.49,143,601.08
+2023-08-31,Electronics,North,Cloudy,1966.18,26.23,August,2023,Summer,3087.19,153,671.31
+2023-09-01,Home Goods,West,Snowy,1582.58,8.29,September,2023,Fall,2505.43,62,682.38
+2023-09-01,Home Goods,East,Rainy,1389.52,5.62,September,2023,Fall,2162.83,50,532.2
+2023-09-02,Electronics,South,Cloudy,1192.17,10.1,September,2023,Fall,2676.53,60,605.95
+2023-09-03,Apparel,West,Snowy,860.57,8.2,September,2023,Fall,2145.3,62,656.23
+2023-09-04,Home Goods,West,Cloudy,1222.8,16.06,September,2023,Fall,2248.44,106,622.56
+2023-09-04,Apparel,East,Cloudy,1782.81,22.22,September,2023,Fall,3224.85,137,707.83
+2023-09-05,Home Goods,West,Cloudy,1211.01,15.06,September,2023,Fall,2224.36,84,528.76
+2023-09-05,Electronics,West,Sunny,1577.64,18.03,September,2023,Fall,3017.88,122,785.12
+2023-09-05,Electronics,West,Cloudy,1934.48,28.5,September,2023,Fall,3494.94,167,858.13
+2023-09-05,Home Goods,West,Cloudy,728.49,16.32,September,2023,Fall,1833.67,116,356.2
+2023-09-07,Electronics,West,Sunny,1609.51,15.48,September,2023,Fall,3071.37,98,742.83
+2023-09-09,Apparel,West,Cloudy,642.58,12.91,September,2023,Fall,2122.66,81,537.17
+2023-09-12,Home Goods,West,Sunny,1313.8,16.54,September,2023,Fall,2512.87,109,558.58
+2023-09-12,Home Goods,South,Rainy,589.57,13.54,September,2023,Fall,1909.68,87,473.76
+2023-09-16,Home Goods,South,Sunny,831.12,27.3,September,2023,Fall,2390.93,167,591.77
+2023-09-17,Home Goods,South,Sunny,1166.19,14.76,September,2023,Fall,2206.08,92,579.12
+2023-09-17,Home Goods,West,Rainy,1713.77,9.25,September,2023,Fall,2447.72,69,575.8
+2023-09-18,Electronics,North,Snowy,1028.9,24.52,September,2023,Fall,2912.28,146,664.48
+2023-09-18,Home Goods,East,Rainy,1328.1,6.14,September,2023,Fall,2310.48,64,636.77
+2023-09-20,Electronics,West,Rainy,567.17,23.41,September,2023,Fall,2765.83,136,658.36
+2023-09-20,Electronics,North,Rainy,1905.64,12.56,September,2023,Fall,3261.51,85,724.97
+2023-09-25,Electronics,North,Sunny,1468.61,17.86,September,2023,Fall,2978.76,105,677.84
+2023-09-26,Home Goods,West,Snowy,1696.32,9.86,September,2023,Fall,2456.34,68,585.64
+2023-09-26,Home Goods,West,Snowy,969.29,27.77,September,2023,Fall,2476.39,166,602.4
+2023-09-26,Home Goods,South,Snowy,1943.47,14.75,September,2023,Fall,2771.73,95,680.16
+2023-09-28,Electronics,East,Sunny,1972.48,22.93,September,2023,Fall,3395.22,138,784.4
+2023-09-30,Home Goods,South,Rainy,770.46,19.54,September,2023,Fall,2059.37,119,547.08
+2023-09-30,Apparel,North,Sunny,1034.28,17.35,September,2023,Fall,2370.54,111,479.62
+2023-09-30,Apparel,West,Sunny,1321.68,29.63,September,2023,Fall,2810.51,176,554.88
+2023-10-01,Electronics,North,Sunny,1471.57,8.09,October,2023,Fall,3065.63,65,661.61
+2023-10-02,Home Goods,East,Snowy,1124.18,21.4,October,2023,Fall,2161.33,133,574.16
+2023-10-02,Electronics,East,Cloudy,1043.4,17.54,October,2023,Fall,3019.45,105,717.39
+2023-10-02,Home Goods,South,Cloudy,1368.9,10.43,October,2023,Fall,2433.57,75,617.27
+2023-10-03,Home Goods,East,Cloudy,1031.4,20.81,October,2023,Fall,2291.48,128,562.95
+2023-10-03,Home Goods,South,Sunny,1165.18,25.0,October,2023,Fall,2461.67,153,553.07
+2023-10-04,Apparel,South,Snowy,546.41,19.47,October,2023,Fall,2131.67,118,507.21
+2023-10-05,Home Goods,West,Snowy,1794.32,23.96,October,2023,Fall,2804.34,155,761.01
+2023-10-08,Electronics,West,Cloudy,1777.76,6.58,October,2023,Fall,3052.18,49,706.33
+2023-10-09,Apparel,North,Snowy,1739.06,12.4,October,2023,Fall,2857.61,84,800.0
+2023-10-10,Electronics,West,Snowy,575.03,25.01,October,2023,Fall,2739.87,145,562.77
+2023-10-10,Apparel,East,Sunny,780.37,25.68,October,2023,Fall,2463.82,154,627.89
+2023-10-10,Apparel,East,Snowy,1433.78,12.02,October,2023,Fall,2473.41,87,650.6
+2023-10-11,Apparel,North,Sunny,1687.58,25.67,October,2023,Fall,2984.23,144,714.08
+2023-10-14,Home Goods,West,Rainy,1448.82,6.38,October,2023,Fall,2340.58,40,584.43
+2023-10-15,Home Goods,South,Sunny,1515.73,17.11,October,2023,Fall,2495.58,108,603.61
+2023-10-15,Electronics,South,Cloudy,1175.17,24.04,October,2023,Fall,2849.21,147,596.13
+2023-10-16,Apparel,South,Rainy,562.49,12.31,October,2023,Fall,2119.87,83,623.98
+2023-10-17,Home Goods,North,Rainy,1294.99,8.34,October,2023,Fall,2109.18,66,523.94
+2023-10-18,Electronics,West,Snowy,1497.49,20.57,October,2023,Fall,2944.93,136,622.15
+2023-10-18,Home Goods,West,Sunny,1879.08,20.42,October,2023,Fall,2805.69,125,702.69
+2023-10-18,Apparel,East,Cloudy,1770.79,16.56,October,2023,Fall,2882.16,99,694.07
+2023-10-19,Apparel,North,Snowy,1145.81,13.62,October,2023,Fall,2625.72,92,670.32
+2023-10-19,Home Goods,South,Snowy,1464.23,12.38,October,2023,Fall,2333.32,78,590.14
+2023-10-20,Electronics,South,Snowy,1301.44,7.19,October,2023,Fall,2642.04,66,709.09
+2023-10-21,Home Goods,South,Sunny,510.02,13.1,October,2023,Fall,1957.55,76,493.54
+2023-10-21,Electronics,South,Snowy,1843.59,19.42,October,2023,Fall,3322.14,121,669.26
+2023-10-21,Home Goods,East,Snowy,1985.82,7.86,October,2023,Fall,2542.71,60,615.08
+2023-10-21,Apparel,South,Rainy,745.82,23.94,October,2023,Fall,2401.49,143,564.79
+2023-10-21,Electronics,West,Sunny,500.66,19.41,October,2023,Fall,2515.23,115,611.53
+2023-10-22,Apparel,East,Cloudy,1521.13,27.04,October,2023,Fall,3043.39,163,644.44
+2023-10-22,Electronics,North,Sunny,1333.24,15.86,October,2023,Fall,2935.75,106,776.79
+2023-10-24,Electronics,East,Rainy,972.38,5.29,October,2023,Fall,2566.31,55,580.82
+2023-10-25,Electronics,South,Snowy,1460.95,10.85,October,2023,Fall,2921.01,83,646.44
+2023-10-25,Apparel,West,Rainy,1804.64,16.71,October,2023,Fall,2840.88,110,644.65
+2023-10-26,Apparel,South,Snowy,1597.59,13.11,October,2023,Fall,2915.79,83,679.37
+2023-10-26,Electronics,West,Rainy,1339.53,19.28,October,2023,Fall,3161.94,117,760.51
+2023-10-26,Home Goods,North,Rainy,1608.94,12.03,October,2023,Fall,2493.77,84,653.31
+2023-10-26,Apparel,South,Rainy,1360.76,26.12,October,2023,Fall,2769.28,152,608.12
+2023-10-27,Apparel,North,Snowy,1153.26,27.82,October,2023,Fall,2787.22,161,739.05
+2023-10-30,Electronics,North,Snowy,843.76,19.8,October,2023,Fall,2934.06,118,700.43
+2023-11-01,Electronics,South,Sunny,1859.63,13.92,November,2023,Fall,3071.02,88,793.97
+2023-11-01,Apparel,West,Snowy,1194.76,27.58,November,2023,Fall,2842.71,163,635.36
+2023-11-03,Electronics,East,Sunny,1516.08,28.73,November,2023,Fall,3535.43,161,701.1
+2023-11-03,Home Goods,West,Cloudy,842.73,27.29,November,2023,Fall,2210.79,156,476.18
+2023-11-03,Apparel,North,Cloudy,1345.49,29.1,November,2023,Fall,2946.95,168,671.33
+2023-11-04,Home Goods,East,Sunny,603.54,14.14,November,2023,Fall,2003.88,93,547.45
+2023-11-06,Electronics,North,Rainy,574.25,18.64,November,2023,Fall,2540.88,113,544.22
+2023-11-06,Apparel,South,Snowy,1853.35,17.81,November,2023,Fall,2995.25,109,662.92
+2023-11-07,Electronics,West,Sunny,1480.99,26.0,November,2023,Fall,3179.21,164,661.64
+2023-11-07,Apparel,North,Rainy,1298.03,24.2,November,2023,Fall,2902.19,149,673.73
+2023-11-07,Electronics,South,Cloudy,819.63,16.6,November,2023,Fall,2813.03,111,581.42
+2023-11-08,Apparel,West,Rainy,651.89,28.34,November,2023,Fall,2424.25,168,651.27
+2023-11-12,Home Goods,West,Rainy,1565.17,14.1,November,2023,Fall,2611.97,95,610.15
+2023-11-13,Apparel,South,Rainy,564.51,28.06,November,2023,Fall,2396.38,157,522.29
+2023-11-13,Electronics,South,Cloudy,1199.91,16.58,November,2023,Fall,3077.35,106,695.65
+2023-11-13,Apparel,West,Rainy,1513.37,26.24,November,2023,Fall,3021.96,155,884.37
+2023-11-13,Apparel,East,Rainy,1811.34,25.23,November,2023,Fall,3005.76,154,699.65
+2023-11-15,Home Goods,North,Snowy,765.76,28.5,November,2023,Fall,2278.91,165,550.07
+2023-11-15,Apparel,North,Rainy,1084.81,20.8,November,2023,Fall,2500.98,137,597.11
+2023-11-15,Home Goods,East,Sunny,1370.33,16.65,November,2023,Fall,2350.87,103,614.03
+2023-11-16,Apparel,North,Sunny,1604.3,12.95,November,2023,Fall,2786.68,100,612.7
+2023-11-16,Electronics,West,Snowy,1059.89,7.33,November,2023,Fall,2643.69,63,653.1
+2023-11-17,Home Goods,West,Rainy,1788.44,21.86,November,2023,Fall,2937.12,130,670.91
+2023-11-18,Apparel,West,Cloudy,693.27,27.59,November,2023,Fall,2471.32,156,642.83
+2023-11-19,Home Goods,East,Rainy,781.76,22.18,November,2023,Fall,2198.37,134,545.16
+2023-11-20,Electronics,East,Snowy,515.14,10.38,November,2023,Fall,2404.49,72,572.1
+2023-11-21,Apparel,West,Cloudy,1770.91,10.98,November,2023,Fall,2862.66,83,716.14
+2023-11-22,Home Goods,South,Cloudy,1627.66,10.79,November,2023,Fall,2489.55,83,667.23
+2023-11-22,Home Goods,West,Rainy,1624.78,12.67,November,2023,Fall,2643.07,90,643.56
+2023-11-23,Home Goods,South,Cloudy,1818.88,12.83,November,2023,Fall,2661.73,86,573.46
+2023-11-23,Apparel,West,Snowy,648.95,7.01,November,2023,Fall,2023.35,53,481.76
+2023-11-24,Apparel,North,Snowy,1260.01,6.55,November,2023,Fall,2369.9,59,568.47
+2023-11-26,Home Goods,South,Sunny,879.22,14.56,November,2023,Fall,2239.83,98,604.63
+2023-11-28,Apparel,South,Sunny,521.29,24.74,November,2023,Fall,2180.41,147,504.24
+2023-11-29,Home Goods,North,Cloudy,998.15,13.49,November,2023,Fall,2236.0,86,567.69
+2023-11-29,Electronics,West,Sunny,1867.28,26.58,November,2023,Fall,3471.08,148,749.52
+2023-11-30,Apparel,South,Sunny,1276.39,24.41,November,2023,Fall,2754.11,147,736.59
+2023-11-30,Apparel,West,Cloudy,626.59,20.92,November,2023,Fall,2268.11,130,593.22
+2023-11-30,Electronics,South,Cloudy,632.3,23.33,November,2023,Fall,2640.73,139,621.17
+2023-12-01,Electronics,South,Cloudy,881.35,9.99,December,2023,Winter,2912.22,80,725.94
+2023-12-01,Home Goods,North,Rainy,753.62,20.81,December,2023,Winter,2435.54,123,609.41
+2023-12-02,Electronics,North,Sunny,1130.18,8.61,December,2023,Winter,2955.93,78,639.28
+2023-12-03,Electronics,South,Rainy,747.24,24.41,December,2023,Winter,3188.53,154,765.35
+2023-12-04,Home Goods,West,Cloudy,878.46,13.19,December,2023,Winter,2240.5,95,504.19
+2023-12-05,Apparel,West,Sunny,823.02,12.7,December,2023,Winter,2542.27,84,660.84
+2023-12-05,Apparel,North,Rainy,1488.67,7.47,December,2023,Winter,3028.45,60,662.14
+2023-12-07,Electronics,West,Sunny,669.4,16.04,December,2023,Winter,2830.13,108,629.18
+2023-12-10,Apparel,West,Sunny,1797.79,17.47,December,2023,Winter,3029.73,106,679.55
+2023-12-11,Home Goods,South,Sunny,852.56,25.82,December,2023,Winter,2391.04,158,639.92
+2023-12-11,Apparel,South,Sunny,1068.37,25.32,December,2023,Winter,2959.36,165,591.05
+2023-12-12,Electronics,East,Rainy,1283.67,27.89,December,2023,Winter,3449.78,161,756.99
+2023-12-15,Electronics,East,Sunny,1677.9,29.74,December,2023,Winter,3534.53,174,905.36
+2023-12-19,Home Goods,South,Rainy,1958.63,6.92,December,2023,Winter,2891.98,67,702.59
+2023-12-21,Apparel,South,Snowy,1167.87,21.83,December,2023,Winter,2946.19,133,690.66
+2023-12-21,Electronics,East,Sunny,1217.39,22.88,December,2023,Winter,3286.62,134,796.61
+2023-12-25,Electronics,North,Rainy,1240.25,28.11,December,2023,Winter,3515.21,160,912.02
+2023-12-26,Apparel,South,Sunny,1922.16,26.43,December,2023,Winter,3535.35,150,845.57
+2023-12-27,Home Goods,West,Sunny,1823.39,7.59,December,2023,Winter,2579.38,57,623.02
+2023-12-28,Electronics,East,Cloudy,706.29,24.32,December,2023,Winter,3031.33,146,739.08
+2023-12-28,Home Goods,North,Sunny,806.69,22.75,December,2023,Winter,2453.23,137,600.23
+2023-12-28,Apparel,South,Snowy,614.58,20.49,December,2023,Winter,2592.5,112,598.43
+2023-12-29,Electronics,North,Cloudy,1175.9,25.78,December,2023,Winter,3494.44,155,792.25
+2023-12-30,Home Goods,North,Cloudy,1896.51,28.58,December,2023,Winter,2945.9,178,692.74
+2023-12-30,Apparel,North,Sunny,1630.74,15.5,December,2023,Winter,2983.54,101,769.93
+2023-12-31,Electronics,East,Cloudy,1232.56,19.39,December,2023,Winter,3284.94,128,825.47
+2023-12-31,Home Goods,East,Cloudy,1261.17,17.6,December,2023,Winter,2736.07,109,696.62
+2024-01-02,Home Goods,North,Rainy,615.72,23.17,January,2024,Winter,2306.27,145,559.83
+2024-01-02,Electronics,South,Rainy,1680.15,8.19,January,2024,Winter,3266.36,67,745.56
+2024-01-03,Electronics,East,Sunny,1338.47,10.54,January,2024,Winter,3298.86,88,795.26
+2024-01-04,Apparel,East,Sunny,673.61,26.72,January,2024,Winter,2569.92,164,663.08
+2024-01-04,Apparel,East,Rainy,1676.63,6.91,January,2024,Winter,3013.63,61,714.32
+2024-01-05,Electronics,East,Rainy,1173.22,10.87,January,2024,Winter,3029.97,82,678.02
+2024-01-05,Home Goods,North,Sunny,1213.95,22.6,January,2024,Winter,2675.45,127,717.6
+2024-01-06,Apparel,North,Sunny,1710.78,23.11,January,2024,Winter,3183.76,131,879.29
+2024-01-06,Electronics,North,Sunny,1638.6,26.43,January,2024,Winter,3761.82,161,875.54
+2024-01-06,Home Goods,South,Sunny,1298.39,20.46,January,2024,Winter,2736.75,133,663.25
+2024-01-09,Home Goods,West,Sunny,805.37,27.54,January,2024,Winter,2531.36,166,705.28
+2024-01-09,Electronics,West,Cloudy,945.09,18.7,January,2024,Winter,3079.43,119,710.6
+2024-01-10,Electronics,East,Rainy,1137.16,20.14,January,2024,Winter,3266.16,130,782.22
+2024-01-11,Electronics,East,Sunny,1535.14,25.56,January,2024,Winter,3567.89,153,767.95
+2024-01-13,Home Goods,West,Rainy,1469.68,14.66,January,2024,Winter,2574.38,104,601.05
+2024-01-15,Electronics,North,Sunny,1919.97,21.67,January,2024,Winter,3808.92,131,817.7
+2024-01-15,Home Goods,West,Sunny,1904.48,19.72,January,2024,Winter,3080.19,125,753.8
+2024-01-18,Home Goods,West,Sunny,1855.41,11.37,January,2024,Winter,2777.17,74,659.34
+2024-01-19,Electronics,East,Rainy,1611.47,19.62,January,2024,Winter,3549.62,112,748.16
+2024-01-19,Electronics,South,Rainy,1683.2,15.2,January,2024,Winter,3700.14,94,804.44
+2024-01-20,Apparel,South,Sunny,1289.42,17.85,January,2024,Winter,2910.81,114,707.25
+2024-01-20,Home Goods,North,Rainy,1950.58,24.55,January,2024,Winter,3175.12,141,774.98
+2024-01-21,Apparel,East,Sunny,1311.1,7.25,January,2024,Winter,2828.27,69,689.71
+2024-01-21,Home Goods,West,Snowy,1892.99,6.13,January,2024,Winter,2698.15,53,590.45
+2024-01-22,Apparel,North,Snowy,1096.17,16.06,January,2024,Winter,2697.7,104,592.15
+2024-01-22,Home Goods,East,Sunny,1860.41,6.52,January,2024,Winter,2764.33,54,686.41
+2024-01-24,Home Goods,East,Snowy,1833.33,10.5,January,2024,Winter,2893.67,72,700.52
+2024-01-24,Electronics,South,Cloudy,1965.66,17.68,January,2024,Winter,3762.41,115,833.02
+2024-01-28,Electronics,East,Snowy,1712.12,18.93,January,2024,Winter,3592.11,115,852.78
+2024-01-29,Apparel,South,Cloudy,1500.3,22.39,January,2024,Winter,2971.85,132,774.61
+2024-01-29,Electronics,South,Cloudy,636.08,20.04,January,2024,Winter,2859.76,117,597.85
+2024-01-31,Home Goods,West,Cloudy,1320.05,7.69,January,2024,Winter,2525.2,72,552.17
+2024-02-01,Apparel,South,Rainy,1707.13,8.96,February,2024,Winter,2899.36,66,699.05
+2024-02-01,Apparel,North,Rainy,1841.96,8.49,February,2024,Winter,2996.82,61,729.67
+2024-02-03,Electronics,South,Rainy,884.07,15.88,February,2024,Winter,3121.91,101,730.91
+2024-02-03,Home Goods,North,Sunny,894.01,23.82,February,2024,Winter,2489.63,143,554.72
+2024-02-03,Home Goods,South,Cloudy,1173.63,8.58,February,2024,Winter,2401.07,63,620.07
+2024-02-03,Electronics,East,Cloudy,1200.17,19.61,February,2024,Winter,3238.0,125,791.72
+2024-02-06,Apparel,West,Cloudy,1673.58,6.75,February,2024,Winter,2740.16,55,655.1
+2024-02-06,Apparel,North,Sunny,1807.4,21.56,February,2024,Winter,3102.34,135,758.49
+2024-02-08,Home Goods,West,Cloudy,1985.13,11.89,February,2024,Winter,3021.34,84,704.36
+2024-02-08,Home Goods,South,Cloudy,503.16,5.37,February,2024,Winter,1876.97,56,465.18
+2024-02-09,Electronics,South,Rainy,1522.5,28.1,February,2024,Winter,3526.89,164,765.99
+2024-02-10,Apparel,South,Cloudy,586.61,28.84,February,2024,Winter,2552.44,164,586.28
+2024-02-11,Home Goods,East,Cloudy,1683.74,15.3,February,2024,Winter,2834.35,98,648.38
+2024-02-12,Electronics,North,Cloudy,1194.28,29.73,February,2024,Winter,3384.65,179,741.73
+2024-02-13,Apparel,West,Rainy,858.74,5.13,February,2024,Winter,2513.2,47,548.5
+2024-02-15,Electronics,South,Sunny,1398.21,10.3,February,2024,Winter,3194.7,73,653.97
+2024-02-15,Apparel,East,Sunny,1390.7,29.22,February,2024,Winter,3239.85,171,787.68
+2024-02-15,Electronics,North,Snowy,1875.19,26.74,February,2024,Winter,4074.73,158,880.66
+2024-02-15,Electronics,North,Snowy,900.01,7.19,February,2024,Winter,2963.08,63,733.72
+2024-02-16,Electronics,South,Sunny,827.66,24.74,February,2024,Winter,3043.47,150,710.81
+2024-02-18,Apparel,West,Rainy,1403.18,27.11,February,2024,Winter,3099.13,147,727.72
+2024-02-19,Apparel,East,Sunny,1727.31,22.67,February,2024,Winter,3208.79,140,698.59
+2024-02-19,Apparel,South,Cloudy,1844.06,16.01,February,2024,Winter,3315.74,114,738.74
+2024-02-22,Electronics,West,Rainy,1069.25,11.79,February,2024,Winter,2952.23,77,647.31
+2024-02-22,Electronics,West,Rainy,1744.64,29.79,February,2024,Winter,3808.79,166,851.3
+2024-02-23,Home Goods,East,Rainy,1791.98,17.31,February,2024,Winter,3035.27,117,670.75
+2024-02-24,Apparel,West,Snowy,1896.21,29.91,February,2024,Winter,3487.09,177,832.12
+2024-02-26,Home Goods,West,Snowy,1006.01,16.0,February,2024,Winter,2466.57,103,575.92
+2024-02-26,Apparel,South,Snowy,1072.16,7.64,February,2024,Winter,2559.94,62,617.86
+2024-02-29,Apparel,North,Sunny,1247.35,7.3,February,2024,Winter,2628.88,55,751.14
+2024-03-01,Electronics,West,Sunny,566.85,22.05,March,2024,Spring,2676.51,136,612.43
+2024-03-02,Home Goods,North,Rainy,779.03,24.07,March,2024,Spring,2051.29,142,499.43
+2024-03-02,Home Goods,North,Snowy,851.28,27.04,March,2024,Spring,2252.74,160,500.52
+2024-03-02,Electronics,East,Snowy,1222.32,6.91,March,2024,Spring,2597.24,57,717.49
+2024-03-03,Home Goods,East,Sunny,1077.68,24.01,March,2024,Spring,2202.1,140,565.36
+2024-03-05,Home Goods,South,Rainy,606.34,12.41,March,2024,Spring,1910.39,83,555.71
+2024-03-05,Apparel,East,Sunny,1700.53,8.97,March,2024,Spring,2664.18,66,608.07
+2024-03-06,Apparel,North,Rainy,758.13,13.39,March,2024,Spring,2165.06,89,518.69
+2024-03-06,Electronics,East,Snowy,1712.03,18.22,March,2024,Spring,3096.14,113,719.84
+2024-03-06,Electronics,West,Cloudy,1105.85,24.42,March,2024,Spring,2904.96,144,626.16
+2024-03-08,Electronics,South,Rainy,1735.67,11.99,March,2024,Spring,3064.05,84,646.31
+2024-03-08,Apparel,West,Cloudy,839.42,24.34,March,2024,Spring,2161.51,142,537.27
+2024-03-08,Apparel,East,Snowy,830.73,16.49,March,2024,Spring,2045.6,96,509.55
+2024-03-10,Apparel,East,Snowy,1363.03,12.39,March,2024,Spring,2486.7,84,593.78
+2024-03-11,Electronics,East,Rainy,1101.96,29.79,March,2024,Spring,3052.93,175,687.77
+2024-03-12,Apparel,North,Rainy,1641.28,10.45,March,2024,Spring,2418.72,80,521.13
+2024-03-12,Apparel,West,Sunny,1712.41,13.96,March,2024,Spring,2648.82,92,701.78
+2024-03-14,Apparel,East,Snowy,1000.19,26.88,March,2024,Spring,2517.06,160,704.79
+2024-03-15,Apparel,East,Rainy,1894.14,26.06,March,2024,Spring,3200.93,151,743.52
+2024-03-16,Home Goods,North,Rainy,609.01,28.56,March,2024,Spring,2155.63,166,458.63
+2024-03-17,Home Goods,North,Snowy,695.07,17.79,March,2024,Spring,1953.04,107,469.24
+2024-03-21,Electronics,West,Snowy,578.3,13.4,March,2024,Spring,2563.93,91,639.3
+2024-03-23,Apparel,West,Snowy,504.38,17.76,March,2024,Spring,1899.97,104,523.12
+2024-03-25,Apparel,West,Cloudy,1375.34,27.24,March,2024,Spring,2734.9,144,680.69
+2024-03-25,Home Goods,West,Cloudy,1872.89,12.96,March,2024,Spring,2604.49,88,605.36
+2024-03-26,Apparel,East,Sunny,800.98,5.22,March,2024,Spring,1983.5,43,496.63
+2024-03-26,Electronics,South,Rainy,1541.68,17.81,March,2024,Spring,2795.17,113,728.69
+2024-03-26,Electronics,South,Snowy,899.25,6.12,March,2024,Spring,2375.12,54,599.74
+2024-03-26,Home Goods,West,Rainy,1390.23,20.1,March,2024,Spring,2448.82,119,490.36
+2024-03-28,Electronics,North,Cloudy,1315.71,6.39,March,2024,Spring,2791.96,59,664.75
+2024-03-29,Apparel,South,Cloudy,1296.63,21.86,March,2024,Spring,2555.59,127,558.53
+2024-03-29,Home Goods,South,Rainy,1959.16,5.33,March,2024,Spring,2557.03,46,628.33
+2024-03-30,Electronics,West,Snowy,1344.07,20.41,March,2024,Spring,2897.43,126,701.14
+2024-03-30,Home Goods,North,Sunny,1844.11,24.61,March,2024,Spring,2720.68,141,663.19
+2024-04-01,Home Goods,North,Sunny,1360.02,23.84,April,2024,Spring,2321.88,146,547.98
+2024-04-01,Apparel,West,Snowy,1763.11,29.61,April,2024,Spring,2894.73,172,593.56
+2024-04-02,Home Goods,East,Snowy,1588.44,7.87,April,2024,Spring,2382.53,59,562.6
+2024-04-03,Electronics,North,Snowy,1145.56,21.3,April,2024,Spring,2798.61,135,721.65
+2024-04-04,Home Goods,South,Sunny,1923.27,28.18,April,2024,Spring,2835.21,158,581.57
+2024-04-05,Electronics,East,Cloudy,1590.12,12.87,April,2024,Spring,2861.07,92,616.48
+2024-04-06,Home Goods,South,Rainy,751.04,12.95,April,2024,Spring,2061.97,82,453.24
+2024-04-07,Apparel,North,Rainy,1866.6,18.91,April,2024,Spring,2834.84,116,676.5
+2024-04-08,Electronics,South,Sunny,1508.08,8.79,April,2024,Spring,2787.92,66,615.59
+2024-04-08,Apparel,West,Snowy,806.66,21.63,April,2024,Spring,2409.81,136,592.14
+2024-04-08,Apparel,North,Snowy,1572.56,27.58,April,2024,Spring,2815.71,162,621.86
+2024-04-09,Home Goods,West,Rainy,1888.46,5.39,April,2024,Spring,2404.01,46,546.88
+2024-04-09,Home Goods,South,Sunny,845.38,7.92,April,2024,Spring,1865.26,58,482.89
+2024-04-10,Apparel,South,Sunny,1921.09,7.68,April,2024,Spring,2577.11,59,632.91
+2024-04-11,Electronics,South,Sunny,540.76,27.11,April,2024,Spring,2675.59,160,668.4
+2024-04-12,Home Goods,South,Sunny,787.14,25.07,April,2024,Spring,2152.82,141,609.61
+2024-04-13,Apparel,East,Sunny,1785.69,9.81,April,2024,Spring,2833.87,71,665.64
+2024-04-14,Home Goods,South,Rainy,1519.32,12.99,April,2024,Spring,2401.52,83,674.36
+2024-04-15,Apparel,North,Cloudy,747.86,7.75,April,2024,Spring,1964.88,58,467.85
+2024-04-16,Electronics,South,Snowy,988.73,25.26,April,2024,Spring,2876.88,144,676.1
+2024-04-16,Electronics,North,Rainy,766.83,8.9,April,2024,Spring,2446.56,56,570.29
+2024-04-17,Apparel,East,Rainy,1320.44,7.22,April,2024,Spring,2497.39,63,572.68
+2024-04-18,Home Goods,East,Snowy,1861.07,17.11,April,2024,Spring,2698.68,108,614.93
+2024-04-18,Home Goods,South,Sunny,1173.28,18.33,April,2024,Spring,2397.64,111,548.19
+2024-04-19,Apparel,East,Sunny,926.84,20.21,April,2024,Spring,2356.23,117,490.95
+2024-04-20,Apparel,South,Rainy,1759.19,15.28,April,2024,Spring,2933.79,104,665.72
+2024-04-21,Home Goods,West,Sunny,1344.99,16.1,April,2024,Spring,2266.45,98,611.7
+2024-04-22,Electronics,North,Cloudy,1559.29,11.48,April,2024,Spring,2842.09,83,696.79
+2024-04-28,Home Goods,East,Cloudy,882.96,7.39,April,2024,Spring,1635.34,66,439.01
+2024-04-30,Home Goods,East,Sunny,647.35,12.62,April,2024,Spring,1881.86,77,451.85
+2024-05-01,Electronics,South,Snowy,1584.72,11.78,May,2024,Spring,2940.43,78,667.88
+2024-05-01,Apparel,North,Rainy,1079.48,28.2,May,2024,Spring,2503.08,160,647.97
+2024-05-03,Apparel,North,Sunny,1051.6,17.66,May,2024,Spring,2573.12,103,632.16
+2024-05-03,Home Goods,North,Sunny,1056.74,21.75,May,2024,Spring,2313.53,132,504.8
+2024-05-04,Electronics,South,Sunny,1970.16,14.48,May,2024,Spring,3253.48,89,784.72
+2024-05-06,Electronics,East,Rainy,849.14,23.56,May,2024,Spring,2751.17,139,626.05
+2024-05-06,Home Goods,South,Sunny,1406.11,15.11,May,2024,Spring,2486.67,94,606.19
+2024-05-07,Electronics,East,Snowy,1401.65,5.75,May,2024,Spring,2604.75,56,594.32
+2024-05-07,Home Goods,East,Rainy,1324.38,24.36,May,2024,Spring,2497.66,143,638.52
+2024-05-10,Home Goods,North,Snowy,1110.01,19.63,May,2024,Spring,2224.45,115,553.46
+2024-05-10,Apparel,North,Rainy,1546.63,12.59,May,2024,Spring,2564.75,86,652.77
+2024-05-10,Home Goods,North,Cloudy,866.51,20.95,May,2024,Spring,2023.67,124,646.78
+2024-05-12,Home Goods,North,Snowy,537.71,29.51,May,2024,Spring,2140.1,180,529.99
+2024-05-13,Home Goods,West,Snowy,1237.13,10.77,May,2024,Spring,2244.27,66,564.58
+2024-05-13,Apparel,West,Sunny,1469.14,22.82,May,2024,Spring,2916.03,141,697.99
+2024-05-16,Electronics,East,Sunny,1673.02,10.0,May,2024,Spring,3005.62,65,660.06
+2024-05-16,Electronics,South,Cloudy,807.47,12.36,May,2024,Spring,2539.84,88,642.85
+2024-05-16,Electronics,West,Sunny,1999.32,29.94,May,2024,Spring,3517.0,170,770.92
+2024-05-18,Home Goods,South,Sunny,592.0,15.84,May,2024,Spring,1839.88,103,502.06
+2024-05-18,Apparel,East,Rainy,1866.75,24.62,May,2024,Spring,2928.16,145,629.82
+2024-05-20,Apparel,East,Rainy,1497.94,14.77,May,2024,Spring,2399.22,90,537.42
+2024-05-21,Apparel,West,Sunny,1439.26,19.3,May,2024,Spring,2422.03,122,594.11
+2024-05-21,Home Goods,West,Rainy,504.32,16.89,May,2024,Spring,1853.79,104,531.87
+2024-05-21,Home Goods,East,Sunny,1183.97,14.39,May,2024,Spring,2336.53,97,565.16
+2024-05-21,Apparel,South,Cloudy,546.67,10.25,May,2024,Spring,1733.39,81,519.44
+2024-05-21,Home Goods,North,Snowy,1594.79,7.38,May,2024,Spring,2385.91,56,638.64
+2024-05-22,Apparel,South,Cloudy,1108.63,9.78,May,2024,Spring,2366.8,71,599.8
+2024-05-25,Electronics,North,Rainy,1218.61,13.72,May,2024,Spring,2638.22,86,656.4
+2024-05-25,Apparel,North,Snowy,1677.29,21.41,May,2024,Spring,2752.25,127,601.21
+2024-05-26,Electronics,North,Rainy,1296.11,6.5,May,2024,Spring,2464.83,59,601.87
+2024-05-27,Home Goods,North,Sunny,1803.42,9.36,May,2024,Spring,2441.06,74,594.22
+2024-05-28,Electronics,North,Cloudy,1514.64,10.55,May,2024,Spring,2622.13,73,601.74
+2024-05-28,Electronics,East,Sunny,1103.67,9.13,May,2024,Spring,2607.89,62,675.69
+2024-05-29,Home Goods,West,Snowy,1121.7,27.18,May,2024,Spring,2517.33,155,557.8
+2024-05-30,Apparel,East,Sunny,1313.71,12.61,May,2024,Spring,2560.43,81,614.04
+2024-05-30,Home Goods,West,Snowy,1643.89,18.8,May,2024,Spring,2812.65,116,663.08
+2024-06-01,Electronics,North,Cloudy,1699.58,28.11,June,2024,Summer,3017.38,158,679.97
+2024-06-01,Apparel,West,Sunny,1180.92,24.99,June,2024,Summer,2492.55,147,584.09
+2024-06-01,Apparel,South,Cloudy,1643.46,12.34,June,2024,Summer,2155.18,77,553.57
+2024-06-02,Electronics,South,Sunny,1466.89,21.19,June,2024,Summer,2549.88,119,696.1
+2024-06-02,Home Goods,West,Snowy,1688.78,15.35,June,2024,Summer,2217.22,99,575.65
+2024-06-03,Electronics,South,Cloudy,1511.52,19.01,June,2024,Summer,2692.71,124,680.55
+2024-06-03,Electronics,South,Rainy,1775.71,5.9,June,2024,Summer,2676.99,57,634.65
+2024-06-04,Apparel,West,Cloudy,1609.11,8.16,June,2024,Summer,2322.36,62,549.55
+2024-06-04,Electronics,South,Cloudy,503.03,5.14,June,2024,Summer,1876.98,41,477.29
+2024-06-09,Apparel,South,Rainy,1497.72,23.28,June,2024,Summer,2446.3,135,595.0
+2024-06-10,Home Goods,North,Sunny,1106.36,18.54,June,2024,Summer,2131.66,112,479.86
+2024-06-10,Electronics,West,Cloudy,1065.97,18.05,June,2024,Summer,2431.71,111,600.95
+2024-06-13,Home Goods,North,Sunny,1279.56,17.52,June,2024,Summer,2125.22,98,548.19
+2024-06-14,Home Goods,East,Cloudy,1763.35,24.13,June,2024,Summer,2526.42,147,681.9
+2024-06-14,Electronics,South,Rainy,913.32,21.35,June,2024,Summer,2458.65,120,514.25
+2024-06-14,Electronics,South,Snowy,651.41,5.08,June,2024,Summer,2077.61,47,523.02
+2024-06-15,Apparel,East,Sunny,705.5,28.57,June,2024,Summer,2118.81,163,532.53
+2024-06-15,Electronics,North,Cloudy,545.82,15.41,June,2024,Summer,2044.01,98,443.62
+2024-06-16,Electronics,South,Cloudy,1101.41,5.73,June,2024,Summer,2133.7,51,499.46
+2024-06-16,Home Goods,West,Cloudy,894.97,13.63,June,2024,Summer,1834.56,97,603.28
+2024-06-18,Apparel,South,Snowy,708.31,26.54,June,2024,Summer,2164.82,147,610.32
+2024-06-21,Electronics,East,Cloudy,1740.12,12.14,June,2024,Summer,2768.06,84,631.16
+2024-06-21,Home Goods,East,Rainy,1564.07,25.88,June,2024,Summer,2388.05,154,544.83
+2024-06-24,Apparel,North,Cloudy,1104.15,9.57,June,2024,Summer,2059.59,73,519.03
+2024-06-25,Electronics,East,Rainy,1778.84,16.32,June,2024,Summer,2892.7,108,628.78
+2024-06-26,Apparel,West,Rainy,1123.41,10.6,June,2024,Summer,1951.25,79,563.94
+2024-06-26,Electronics,East,Cloudy,1641.63,23.35,June,2024,Summer,2712.17,141,687.73
+2024-06-27,Home Goods,South,Cloudy,880.04,22.12,June,2024,Summer,1923.37,135,428.05
+2024-06-30,Electronics,North,Cloudy,965.0,5.68,June,2024,Summer,2089.58,52,534.16
+2024-07-01,Home Goods,North,Cloudy,1571.62,13.3,July,2024,Summer,2275.96,86,547.45
+2024-07-02,Apparel,West,Snowy,509.13,12.79,July,2024,Summer,1788.09,76,497.42
+2024-07-03,Electronics,South,Snowy,694.91,13.51,July,2024,Summer,2123.34,83,474.04
+2024-07-04,Apparel,North,Snowy,533.04,8.16,July,2024,Summer,1514.33,61,424.98
+2024-07-08,Apparel,North,Sunny,1584.69,18.69,July,2024,Summer,2442.9,115,545.55
+2024-07-08,Electronics,South,Rainy,508.5,13.84,July,2024,Summer,1985.34,88,551.77
+2024-07-09,Electronics,South,Rainy,1789.74,27.36,July,2024,Summer,3078.54,163,675.27
+2024-07-09,Home Goods,West,Cloudy,649.8,19.21,July,2024,Summer,1679.12,111,429.64
+2024-07-10,Electronics,East,Snowy,1454.06,12.83,July,2024,Summer,2558.51,87,610.04
+2024-07-10,Home Goods,East,Snowy,1680.13,23.28,July,2024,Summer,2576.52,150,606.22
+2024-07-11,Apparel,South,Snowy,1395.64,25.94,July,2024,Summer,2509.91,143,578.14
+2024-07-13,Electronics,West,Cloudy,1270.42,6.06,July,2024,Summer,2236.02,40,489.99
+2024-07-16,Home Goods,West,Sunny,1915.97,28.11,July,2024,Summer,2670.31,159,596.26
+2024-07-17,Home Goods,North,Cloudy,541.28,22.33,July,2024,Summer,1825.78,121,454.65
+2024-07-17,Home Goods,West,Cloudy,1543.7,24.52,July,2024,Summer,2253.61,144,478.13
+2024-07-17,Electronics,West,Cloudy,1074.93,7.04,July,2024,Summer,2086.15,47,593.26
+2024-07-17,Apparel,North,Cloudy,1408.63,22.27,July,2024,Summer,2410.36,134,526.85
+2024-07-17,Apparel,East,Snowy,1605.64,23.84,July,2024,Summer,2600.43,138,659.16
+2024-07-18,Electronics,North,Snowy,1297.4,14.36,July,2024,Summer,2463.83,88,654.17
+2024-07-20,Electronics,North,Snowy,1954.41,21.06,July,2024,Summer,2936.11,117,638.45
+2024-07-20,Home Goods,South,Rainy,1010.61,13.39,July,2024,Summer,1647.75,92,395.5
+2024-07-22,Electronics,South,Snowy,1187.03,24.79,July,2024,Summer,2574.86,152,590.49
+2024-07-23,Home Goods,North,Cloudy,524.09,23.79,July,2024,Summer,1837.06,138,558.86
+2024-07-23,Apparel,West,Snowy,1408.22,5.59,July,2024,Summer,2160.97,50,621.42
+2024-07-24,Home Goods,North,Rainy,1878.1,19.92,July,2024,Summer,2509.8,115,541.68
+2024-07-24,Apparel,South,Cloudy,1429.6,28.54,July,2024,Summer,2529.81,153,541.55
+2024-07-31,Apparel,North,Cloudy,596.74,12.78,July,2024,Summer,1759.91,75,440.96
+2024-07-31,Electronics,East,Cloudy,1579.48,10.67,July,2024,Summer,2584.37,74,618.35
+2024-07-31,Home Goods,East,Snowy,1931.05,13.76,July,2024,Summer,2539.29,97,614.72
+2024-08-03,Electronics,East,Rainy,1994.18,22.28,August,2024,Summer,3046.68,134,719.12
+2024-08-03,Apparel,North,Cloudy,1252.27,10.21,August,2024,Summer,1983.75,61,502.81
+2024-08-05,Home Goods,East,Rainy,820.09,26.45,August,2024,Summer,1859.83,150,440.76
+2024-08-08,Electronics,North,Snowy,590.94,20.09,August,2024,Summer,2323.62,125,662.69
+2024-08-09,Apparel,South,Snowy,1992.29,6.73,August,2024,Summer,2627.86,54,558.57
+2024-08-10,Home Goods,South,Sunny,1081.09,25.59,August,2024,Summer,2143.51,151,578.67
+2024-08-10,Electronics,North,Snowy,1614.24,26.05,August,2024,Summer,3022.9,159,678.55
+2024-08-10,Apparel,West,Rainy,1709.88,10.01,August,2024,Summer,2244.19,66,544.63
+2024-08-11,Apparel,East,Cloudy,677.74,12.18,August,2024,Summer,1685.32,75,407.27
+2024-08-12,Apparel,West,Sunny,1800.4,7.93,August,2024,Summer,2612.24,53,670.41
+2024-08-12,Home Goods,East,Sunny,551.69,25.84,August,2024,Summer,1849.45,144,440.31
+2024-08-13,Home Goods,East,Rainy,1736.8,8.04,August,2024,Summer,2150.68,59,437.91
+2024-08-13,Home Goods,East,Rainy,1799.58,25.66,August,2024,Summer,2530.53,141,566.03
+2024-08-14,Home Goods,South,Sunny,717.79,12.05,August,2024,Summer,1650.8,76,497.88
+2024-08-14,Electronics,North,Rainy,1759.72,21.21,August,2024,Summer,2810.46,120,623.95
+2024-08-15,Electronics,West,Snowy,1119.14,6.94,August,2024,Summer,2214.37,48,563.32
+2024-08-15,Electronics,South,Snowy,1072.42,12.97,August,2024,Summer,2295.33,90,551.8
+2024-08-15,Apparel,North,Snowy,1089.19,11.0,August,2024,Summer,2242.48,75,583.45
+2024-08-15,Home Goods,North,Rainy,1076.36,23.7,August,2024,Summer,2064.67,129,502.06
+2024-08-15,Apparel,East,Cloudy,1802.83,17.39,August,2024,Summer,2563.42,106,675.73
+2024-08-15,Apparel,North,Rainy,748.44,10.03,August,2024,Summer,1634.19,71,381.89
+2024-08-16,Electronics,South,Cloudy,1073.87,19.99,August,2024,Summer,2533.59,118,617.32
+2024-08-16,Electronics,West,Cloudy,1058.3,19.53,August,2024,Summer,2569.78,107,662.24
+2024-08-17,Home Goods,South,Sunny,654.12,26.36,August,2024,Summer,1995.78,153,481.32
+2024-08-18,Apparel,East,Rainy,1511.91,15.65,August,2024,Summer,2437.69,99,583.22
+2024-08-19,Electronics,North,Rainy,1595.74,24.34,August,2024,Summer,2724.55,154,696.56
+2024-08-20,Home Goods,East,Rainy,1283.81,27.39,August,2024,Summer,2278.06,161,523.49
+2024-08-20,Home Goods,South,Cloudy,640.51,7.37,August,2024,Summer,1653.04,55,455.32
+2024-08-25,Home Goods,North,Cloudy,1826.64,27.46,August,2024,Summer,2792.51,156,663.7
+2024-08-25,Electronics,West,Cloudy,1725.88,20.84,August,2024,Summer,2793.13,127,731.06
+2024-08-27,Home Goods,North,Rainy,1046.53,25.91,August,2024,Summer,1994.68,152,475.28
+2024-08-28,Electronics,North,Sunny,990.57,17.07,August,2024,Summer,2518.05,99,605.02
+2024-08-29,Home Goods,South,Rainy,1157.58,14.95,August,2024,Summer,2010.34,94,536.07
+2024-08-29,Home Goods,West,Rainy,1096.47,13.31,August,2024,Summer,1690.65,82,465.81
+2024-08-30,Electronics,South,Sunny,1642.86,15.91,August,2024,Summer,2612.19,99,725.47
+2024-08-30,Electronics,West,Cloudy,1446.05,8.23,August,2024,Summer,2473.09,66,603.7
+2024-08-31,Electronics,South,Sunny,1598.18,19.03,August,2024,Summer,2833.2,109,666.26
+2024-09-01,Home Goods,South,Rainy,657.89,12.6,September,2024,Fall,1892.24,84,514.65
+2024-09-02,Electronics,North,Rainy,1084.64,14.34,September,2024,Fall,2907.77,95,634.76
+2024-09-04,Electronics,South,Sunny,577.85,25.71,September,2024,Fall,2520.48,156,629.59
+2024-09-07,Electronics,South,Rainy,1514.16,20.25,September,2024,Fall,2991.81,124,640.25
+2024-09-08,Electronics,South,Snowy,721.98,19.49,September,2024,Fall,2480.18,122,647.23
+2024-09-09,Home Goods,South,Cloudy,903.45,24.65,September,2024,Fall,2420.55,137,627.47
+2024-09-12,Home Goods,West,Cloudy,1092.1,28.21,September,2024,Fall,2371.27,161,629.08
+2024-09-13,Electronics,West,Cloudy,1506.41,6.22,September,2024,Fall,3020.2,50,810.63
+2024-09-14,Apparel,North,Snowy,1387.11,8.13,September,2024,Fall,2618.36,67,558.96
+2024-09-14,Electronics,South,Sunny,1166.55,11.24,September,2024,Fall,2825.56,74,624.97
+2024-09-16,Apparel,West,Cloudy,1460.3,28.52,September,2024,Fall,2903.77,165,714.32
+2024-09-18,Home Goods,West,Rainy,1476.44,27.62,September,2024,Fall,2760.43,161,594.41
+2024-09-19,Apparel,South,Rainy,1813.27,12.35,September,2024,Fall,2879.54,81,626.43
+2024-09-19,Electronics,South,Snowy,1849.18,9.96,September,2024,Fall,3192.06,74,792.71
+2024-09-22,Electronics,South,Sunny,1500.28,9.77,September,2024,Fall,2907.84,72,706.15
+2024-09-22,Home Goods,North,Cloudy,597.03,28.33,September,2024,Fall,2191.84,163,546.2
+2024-09-23,Electronics,East,Cloudy,1216.82,14.29,September,2024,Fall,2983.52,98,677.08
+2024-09-23,Apparel,North,Sunny,820.94,10.58,September,2024,Fall,2127.36,74,575.04
+2024-09-25,Apparel,North,Sunny,1087.79,24.5,September,2024,Fall,2481.43,145,622.5
+2024-09-25,Electronics,West,Cloudy,786.68,22.82,September,2024,Fall,2656.38,144,657.1
+2024-09-28,Apparel,West,Cloudy,1798.73,17.82,September,2024,Fall,2994.3,114,624.29
+2024-09-29,Home Goods,North,Snowy,936.72,29.62,September,2024,Fall,2516.03,176,560.81
+2024-09-30,Home Goods,West,Snowy,1210.1,11.82,September,2024,Fall,2190.39,85,527.86
+2024-09-30,Electronics,East,Snowy,1209.46,5.39,September,2024,Fall,2719.48,54,633.17
