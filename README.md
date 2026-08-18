@@ -109,23 +109,7 @@ A simulated daily-transaction dataset for the fictional **RetailMart** chain (ca
 
 </details>
 
----
 
-## 🚀 Getting Started
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/<your-username>/retailpulse-seasonal-eda.git
-cd retailpulse-seasonal-eda
-
-# 2. Install the dependencies
-pip install pandas numpy matplotlib seaborn jupyter
-
-# 3. Launch the notebook
-jupyter notebook Project-RetailMart.ipynb
-```
-
-> **Note:** update the dataset path in the notebook to point to `retailmart_data.csv` in this repo.
 
 
 
