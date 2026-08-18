@@ -129,7 +129,6 @@ jupyter notebook Project-RetailMart.ipynb
 
 ---
 
-## 📁 Repository Structure
 
 
 ---
@@ -138,6 +137,5 @@ jupyter notebook Project-RetailMart.ipynb
 
 **Marc Ntjam**
 
-*Feel free to connect or open an issue with questions and suggestions.*
 
 ---
