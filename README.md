@@ -127,8 +127,6 @@ jupyter notebook Project-RetailMart.ipynb
 
 > **Note:** update the dataset path in the notebook to point to `retailmart_data.csv` in this repo.
 
----
-
 
 
 ---
